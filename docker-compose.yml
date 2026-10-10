@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgres:16
+    container_name: qms_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: qms
+      POSTGRES_PASSWORD: qms_password
+      POSTGRES_DB: qms_dev
+    ports:
+      - "5435:5432"
+    volumes:
+      - qms_pgdata:/var/lib/postgresql/data
+
+volumes:
+  qms_pgdata:

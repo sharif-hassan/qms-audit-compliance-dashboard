@@ -1,0 +1,1216 @@
+[
+  {
+    "standard": "Annex A 5.1",
+    "category": "Organizational",
+    "title": "Policies for Information Security",
+    "description": "Specifies that organizations must have an information security policy document in place. This is to protect themselves against information security threats.",
+    "reference": [
+      "All XX-1 controls"
+    ],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.2",
+    "category": "Organizational",
+    "title": "Information Security Roles and Responsibilities",
+    "description": "Emphasizing the importance of clearly defined and documented information security roles and responsibilities to ensure accountability and effective management across an organization.",
+    "reference": [
+      "All XX-1 controls",
+      "CM-9",
+      "CP-2",
+      "PS-7",
+      "SA-3",
+      "SA-9",
+      "PM-2",
+      "PM-10"
+    ],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Senior VP"
+    ]
+  },
+  {
+    "standard": "Annex A 5.3",
+    "category": "Organizational",
+    "title": "Segregation of Duties",
+    "description": "Emphasizes segregating duties to reduce risks like fraud and errors by clearly defining and separating roles.",
+    "reference": [
+      "AC-5"
+    ],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Senior VP",
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.4",
+    "category": "Organizational",
+    "title": "Management Responsibilities",
+    "description": "Emphasizes management's responsibility to enforce information security by ensuring employees and contractors are informed, trained, and compliant with security policies, while also allocating resources and providing channels for reporting violations.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.5",
+    "category": "Organizational",
+    "title": "Contact With Authorities",
+    "description": "Specifies that an organization should maintain a process for contacting the appropriate authorities per its legal, regulatory, and contractual obligations.",
+    "reference": [
+      "IR-6"
+    ],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.6",
+    "category": "Organizational",
+    "title": "Contact With Special Interest Groups",
+    "description": "The need for organizations to engage with special interest groups and professional associations to stay updated on security best practices, threats, and expert advice.",
+    "reference": [
+      "SI-5",
+      "PM-15"
+    ],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.7",
+    "category": "Organizational",
+    "title": "Threat Intelligence",
+    "description": "Emphasizing the need for organizations to gather, analyze, and act on threat data to strengthen information security through actionable insights and periodic assessments",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.8",
+    "category": "Organizational",
+    "title": "Information Security in Project Management",
+    "description": "Integrates information security into project management by identifying risks early, implementing controls throughout the project lifecycle, and ensuring compliance with ISO standards",
+    "reference": [
+      "SA-3",
+      "SA-9",
+      "SA-15"
+    ],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.9",
+    "category": "Organizational",
+    "title": "Inventory of Information and Other Associated Assets",
+    "description": "Mandates creating and maintaining an inventory of information assets to enhance security, risk management, and compliance",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.10",
+    "category": "Organizational",
+    "title": "Acceptable Use of Information and Other Associated Assets",
+    "description": "Emphasizing the creation and enforcement of acceptable use policies to safeguard information and assets, ensuring compliance, and mitigating risks like unauthorized access or data breaches.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.11",
+    "category": "Organizational",
+    "title": "Return of Assets",
+    "description": "Emphasizing the secure return of organizational assets when roles or contracts end, to prevent data breaches and ensure compliance with information security policies.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "HR",
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.12",
+    "category": "Organizational",
+    "title": "Classification of Information",
+    "description": "Focusing on classifying information by sensitivity and criticality to ensure proper protection and compliance with security standards. It highlights key steps like defining classifications, training staff, and monitoring compliance.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.13",
+    "category": "Organizational",
+    "title": "Labelling of Information",
+    "description": "Requires organizations to label information assets based on their classification to enhance security and streamline management, emphasizing the use of metadata for digital assets and clear procedures for labelling.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.15",
+    "category": "Organizational",
+    "title": "Access Control",
+    "description": "Implementing tailored access control policies to ensure secure, role-based, and least-privilege access to organizational assets, using both technological and physical measures to mitigate risks.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.16",
+    "category": "Organizational",
+    "title": "Identity Management",
+    "description": "Highlighting best practices for secure identity management, access control, and compliance to protect systems and data from unauthorized access.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.17",
+    "category": "Organizational",
+    "title": "Authentication Information",
+    "description": "Highlighting the secure management of authentication data (passwords, tokens, biometrics) through encryption, secure transmission, and regular updates to prevent unauthorized access and ensure compliance with information security standards.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.18",
+    "category": "Organizational",
+    "title": "Access Rights",
+    "description": "Focusing on managing access rights by ensuring proper authorization, segregation of duties, timely revocation, and regular reviews to protect information systems and align with business needs.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.19",
+    "category": "Organizational",
+    "title": "Information Security in Supplier Relationships",
+    "description": "Emphasizing the management of information security risks in supplier relationships through due diligence, clear agreements, ongoing monitoring, and tailored policies to ensure compliance and data protection.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.20",
+    "category": "Organizational",
+    "title": "Addressing Information Security Within Supplier Agreements",
+    "description": "Emphasizes establishing clear information security obligations within supplier agreements to mitigate risks, including access controls, audits, and compliance measures.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.21",
+    "category": "Organizational",
+    "title": "Managing Information Security in the ICT Supply Chain",
+    "description": "Focusing on managing information security risks in the ICT supply chain by establishing security standards, ensuring supplier compliance, and verifying secure delivery of ICT components. It highlights governance integration and supplier accountability for security.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.22",
+    "category": "Organizational",
+    "title": "Monitoring, Review and Change Management of Supplier Services",
+    "description": "Emphasizes monitoring, reviewing, and managing changes in supplier services to maintain agreed levels of information security, tailoring actions to the criticality of risks and fostering compliance through structured policies and senior oversight.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.23",
+    "category": "Organizational",
+    "title": "Information Security for Use of Cloud Services",
+    "description": "Focuses on ensuring the secure use of cloud services through defined security requirements, roles, provider selection criteria, control allocation, and incident management, emphasizing tailored policies and exit strategies for organizations.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.24",
+    "category": "Organizational",
+    "title": "Information Security Incident Management Planning and Preparation",
+    "description": "Focusing on planning and preparing for information security incident management through standardized reporting, effective response processes, trained personnel, and continuous improvement to enhance organizational resilience.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.25",
+    "category": "Organizational",
+    "title": "Assessment and Decision on Information Security Events",
+    "description": "Focusing on assessing information security events to determine if they qualify as incidents, ensuring effective prioritization and management of potential threats.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.26",
+    "category": "Organizational",
+    "title": "Response to Information Security Incidents",
+    "description": "Focusing on managing information security incidents through effective processes, including containment, mitigation, and evidence handling, with ownership assigned to senior management for oversight.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.27",
+    "category": "Organizational",
+    "title": "Learning From Information Security Incidents",
+    "description": "Focuses on learning from information security incidents through documentation, root cause analysis, and continuous improvement to prevent recurrence and enhance security measures.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.28",
+    "category": "Organizational",
+    "title": "Collection of Evidence",
+    "description": "Outlines procedures for systematically collecting and preserving evidence during information security incidents to meet legal and disciplinary requirements, emphasizing integrity, legality, and proper handling.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev",
+      "Compliance"
+    ]
+  },
+  {
+    "standard": "Annex A 5.29",
+    "category": "Organizational",
+    "title": "Information Security During Disruption",
+    "description": "Focuses on ensuring information security during business disruptions by maintaining, adapting, and compensating for security controls as part of continuity plans to prevent data breaches and uphold integrity​​.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.30",
+    "category": "Organizational",
+    "title": "ICT Readiness for Business Continuity",
+    "description": "Ensures organizations maintain readiness for business continuity by identifying critical activities, implementing structured response plans, and regularly testing and updating them to ensure resilience during disruptions.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 5.31",
+    "category": "Organizational",
+    "title": "Legal, Statutory, Regulatory and Contractual Requirements",
+    "description": "Requires organizations to identify, document, and comply with all legal, regulatory, and contractual obligations related to information security, integrating them into policies, risk assessments, and supplier management.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance Officer"
+    ]
+  },
+  {
+    "standard": "Annex A 5.32",
+    "category": "Organizational",
+    "title": "Intellectual Property Rights",
+    "description": "Emphasizing the importance of complying with intellectual property (IP) rights for software and assets, detailing practices like sourcing software responsibly, maintaining asset registers, and adhering to licensing terms to avoid legal or financial consequences.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance Officer"
+    ]
+  },
+  {
+    "standard": "Annex A 5.33",
+    "category": "Organizational",
+    "title": "Protection of Records",
+    "description": "Focuses on protecting organizational records from loss, damage, unauthorized access, and destruction by implementing policies for secure handling, retention, classification, and disposal while ensuring compliance with legal and business requirements.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance Officer"
+    ]
+  },
+  {
+    "standard": "Annex A 5.34",
+    "category": "Organizational",
+    "title": "Privacy and Protection of PII",
+    "description": "Preventive measure that helps keep risk at bay, through the production of guidelines and procedures that meet the legal, statutory, regulatory and contractual obligations of an organization with respect to the storage, privacy and protection of Personal Identifiable Information (PII) in all its forms.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance Officer"
+    ]
+  },
+  {
+    "standard": "Annex A 5.35",
+    "category": "Organizational",
+    "title": "Independent Review of Information Security",
+    "description": "Emphasizing the requirement for organizations to periodically conduct independent reviews of their information security to ensure compliance, identify gaps, and improve security measures.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance Officer"
+    ]
+  },
+  {
+    "standard": "Annex A 5.36",
+    "category": "Organizational",
+    "title": "Compliance With Policies, Rules and Standards for Information Security",
+    "description": "Requires organizations to ensure compliance with internal information security policies, assign oversight responsibilities, and implement corrective actions to maintain a strong security posture.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "Compliance Officer"
+    ]
+  },
+  {
+    "standard": "Annex A 5.37",
+    "category": "Organizational",
+    "title": "Documented Operating Procedures",
+    "description": "Emphasizing the need for documented operating procedures to ensure secure, consistent, and efficient information security operations, particularly for critical, infrequent, or high-risk activities.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev VP"
+    ]
+  },
+  {
+    "standard": "Annex A 6.1",
+    "category": "People",
+    "title": "Screening",
+    "description": "Mandates organizations to conduct appropriate background checks on employees and suppliers before granting them access to sensitive information, ensuring trustworthiness and compliance with legal and security standards.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "HR Dir"
+    ]
+  },
+  {
+    "standard": "Annex A 6.2",
+    "category": "People",
+    "title": "Terms and Conditions of Employment",
+    "description": "Need for organizations to define employees' information security responsibilities in their terms of employment, including confidentiality agreements, legal obligations, and consequences for security breaches.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "HR Dir"
+    ]
+  },
+  {
+    "standard": "Annex A 6.3",
+    "category": "People",
+    "title": "Information Security Awareness, Education and Training",
+    "description": "Emphasizes the need for organizations to implement ongoing information security awareness, education, and training programs to ensure employees understand and fulfil their security responsibilities. It aligns with previous standards while adding clarity and structured guidance for better compliance.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "HR Dir"
+    ]
+  },
+  {
+    "standard": "Annex A 6.4",
+    "category": "People",
+    "title": "Disciplinary Process",
+    "description": "Need for organizations to implement a formal disciplinary process to address information security violations, ensuring clear communication, fair enforcement, and compliance with legal and organizational policies.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "HR Dir"
+    ]
+  },
+  {
+    "standard": "Annex A 6.5",
+    "category": "People",
+    "title": "Responsibilities After Termination or Change of Employment",
+    "description": "Explains the importance of defining and enforcing information security responsibilities that continue after employment ends or changes, ensuring data protection and access revocation to prevent security risks.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "HR Dir",
+      "IT Dir"
+    ]
+  },
+  {
+    "standard": "Annex A 6.6",
+    "category": "People",
+    "title": "Confidentiality or Non-Disclosure Agreements",
+    "description": "Mandates organizations to establish confidentiality or non-disclosure agreements (NDAs) to protect sensitive information from unauthorized disclosure. It outlines key compliance measures, including data ownership, agreement duration, monitoring, and consequences for breaches.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev VP"
+    ]
+  },
+  {
+    "standard": "Annex A 6.7",
+    "category": "People",
+    "title": "Remote Working",
+    "description": "Emphasizes the importance of secure remote working by implementing access controls, physical security measures, and data protection policies to mitigate risks associated with remote environments.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "HR Dir"
+    ]
+  },
+  {
+    "standard": "Annex A 6.8",
+    "category": "People",
+    "title": "Information Security Event Reporting",
+    "description": "Outlines the importance of prompt reporting of information security events to ensure quick response and risk mitigation. It mandates organizations to establish clear reporting mechanisms, educate personnel, and document incidents to maintain security and compliance.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev VP",
+      "Compliance Officer"
+    ]
+  },
+  {
+    "standard": "Annex A 7.1",
+    "category": "Physical",
+    "title": "Physical Security Perimeters",
+    "description": "Physical Security Perimeters ensures systematic implementation and monitoring of physical security measures, enhancing overall organizational security and regulatory compliance. Achieving compliance with ISO 27001:2022 fosters trust with stakeholders by demonstrating a commitment to safeguarding critical information assets.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.2",
+    "category": "Physical",
+    "title": "Physical Entry",
+    "description": "Focuses on securing physical entry points to sensitive areas using access controls like keypads, biometrics, and RFID systems, ensuring only authorized personnel can enter to protect information and assets.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.3",
+    "category": "Physical",
+    "title": "Securing Offices, Rooms and Facilities",
+    "description": "Focuses on securing offices, rooms, and facilities by preventing unauthorized access, protecting information assets, and reducing security risks through measures like controlled access, surveillance, and strategic facility design.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.4",
+    "category": "Physical",
+    "title": "Physical Security Monitoring",
+    "description": "Covers physical security monitoring, emphasizing CCTV, alarms, and access controls to prevent unauthorized access to restricted areas while ensuring compliance with data protection laws.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": []
+  },
+  {
+    "standard": "Annex A 7.5",
+    "category": "Physical",
+    "title": "Protecting Against Physical and Environmental Threats",
+    "description": "Mandates organizations to assess and mitigate risks from physical and environmental threats, such as natural disasters and human-induced incidents, through proactive risk assessment, security controls, and continuous monitoring to protect critical infrastructure and information assets.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.6",
+    "category": "Physical",
+    "title": "Working In Secure Areas",
+    "description": "Outlines security requirements for working in secure areas, emphasizing restricted access, supervised activities, controlled use of devices, and emergency preparedness to protect information assets from unauthorized access or misuse.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.7",
+    "category": "Physical",
+    "title": "Clear Desk and Clear Screen",
+    "description": "Emphasizes securing sensitive information by ensuring workspaces and digital screens are free from exposed data when unattended. Key measures include secure storage, device protection, user authentication, printer security, and proper disposal of sensitive materials.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.8",
+    "category": "Physical",
+    "title": "Equipment Siting and Protection",
+    "description": "Focuses on protecting equipment from physical, environmental, and unauthorized access threats through secure placement, environmental monitoring, and security controls.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.9",
+    "category": "Physical",
+    "title": "Security of Assets Off-Premises",
+    "description": "Focuses on securing information assets when used or stored off-premises, addressing risks like loss, theft, or unauthorized access. It mandates physical security, authorization procedures, remote management, and compliance with manufacturer guidelines to protect sensitive data outside the organization's premises.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.10",
+    "category": "Physical",
+    "title": "Storage Media",
+    "description": "Outlines best practices for managing storage media securely, covering policies for authorization, encryption, storage, transfer, and disposal to prevent unauthorized access, data loss, or breaches.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "VP Operations",
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.11",
+    "category": "Physical",
+    "title": "Supporting Utilities",
+    "description": "Highlights the importance of protecting essential utilities (e.g., power, water, cooling, and telecoms) to prevent disruptions in information processing facilities. It provides guidance on risk mitigation through audits, redundancy, network segregation, and secure configurations to ensure business continuity.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.12",
+    "category": "Physical",
+    "title": "Cabling Security",
+    "description": "Highlights the importance of securing cabling infrastructure to prevent unauthorized access, damage, or interference. It provides guidance on protective measures such as underground placement, segregation, shielding, and access control to maintain business continuity.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.13",
+    "category": "Physical",
+    "title": "Equipment Maintenance",
+    "description": "Highlights the importance of maintaining IT equipment to protect information assets, ensuring proper procedures, authorized personnel, and security controls are in place during maintenance to prevent data breaches and operational failures.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 7.14",
+    "category": "Physical",
+    "title": "Secure Disposal or Re-Use of Equipment",
+    "description": "Mandates secure disposal or reuse of equipment by ensuring irreversible data removal, physical destruction of storage media, and removal of identifying labels to protect sensitive information.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Sr VP Ops"
+    ]
+  },
+  {
+    "standard": "Annex A 8.1",
+    "category": "Technological",
+    "title": "User Endpoint Devices",
+    "description": "Outlines security measures for user endpoint devices (e.g., laptops, mobile phones), emphasizing policies, access controls, encryption, and user responsibilities to protect information assets from threats like unauthorized access, loss, or theft.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir"
+    ]
+  },
+  {
+    "standard": "Annex A 8.2",
+    "category": "Technological",
+    "title": "Privileged Access Rights",
+    "description": "Explains the importance of managing privileged access rights to reduce security risks. It emphasizes controlled, event-based access allocation, maintaining authorization records, and ensuring minimal access necessary for users.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.3",
+    "category": "Technological",
+    "title": "Information Access Restriction",
+    "description": "Highlights the importance of controlling access to sensitive information, ensuring only authorized users can view or modify data. It emphasizes dynamic access management, granular control, real-time monitoring, and audit logging to prevent unauthorized access or misuse.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.4",
+    "category": "Technological",
+    "title": "Access to Source Code",
+    "description": "Emphasizes strict access controls, secure storage, audit trails, and change management for source code to protect intellectual property and prevent unauthorized modifications. It replaces Annex A 9.4.5 from ISO 27001:2013 with a more structured approach to source code security.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.5",
+    "category": "Technological",
+    "title": "Secure Authentication",
+    "description": "Mandates secure authentication mechanisms to prevent unauthorized access, recommending multi-factor authentication (MFA), biometric logins, and smart access controls for enhanced security.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.6",
+    "category": "Technological",
+    "title": "Capacity Management",
+    "description": "Ensures that organizations proactively manage IT resources to meet current and future operational demands, preventing system failures and optimizing performance. The control emphasizes monitoring, stress testing, and planning for scalability to maintain business continuity.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.7",
+    "category": "Technological",
+    "title": "Protection Against Malware",
+    "description": "Focusing on protecting organizations from malware through anti-malware software, user awareness, controlled access, and robust security policies to prevent, detect, and mitigate threats.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.8",
+    "category": "Technological",
+    "title": "Management of Technical Vulnerabilities",
+    "description": "Focuses on managing technical vulnerabilities by identifying risks, maintaining an asset inventory, assessing threats, and implementing mitigation measures to protect an organization's ICT infrastructure. It emphasizes proactive vulnerability management to strengthen information security.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.9",
+    "category": "Technological",
+    "title": "Configuration Management",
+    "description": "Emphasizing the need for structured policies, standardized configurations, and security controls to ensure secure and efficient IT operations. It highlights the importance of documentation, monitoring, and assigning responsibilities for managing configurations effectively.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.10",
+    "category": "Technological",
+    "title": "Information Deletion",
+    "description": "Focuses on the secure deletion of unnecessary data to prevent unauthorized disclosure, requiring organizations to use appropriate deletion methods, document activities, and ensure compliance when using third-party vendors.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.11",
+    "category": "Technological",
+    "title": "Data Masking",
+    "description": "Explains data masking as a security measure to protect sensitive information, using techniques like pseudonymization, anonymization, and encryption to prevent unauthorized access while ensuring compliance with legal and regulatory requirements.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.12",
+    "category": "Technological",
+    "title": "Data Leakage Prevention",
+    "description": "Outlining strategies like data classification, monitoring, encryption, and access restrictions to mitigate unauthorized data disclosure. It emphasizes proactive security measures and compliance best practices for organizations handling sensitive information.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.13",
+    "category": "Technological",
+    "title": "Information Backup",
+    "description": "Outlines the importance of implementing secure, regularly tested backup policies to ensure data recovery and business continuity, with updates focusing on encryption, cloud backups, and enhanced reporting.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.14",
+    "category": "Technological",
+    "title": "Redundancy of Information Processing Facilities",
+    "description": "Highlights the importance of redundancy in information processing facilities to ensure availability, resilience, and business continuity by duplicating critical components and implementing failover measures.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.15",
+    "category": "Technological",
+    "title": "Logging",
+    "description": "Emphasizes the importance of logging critical system events to enhance security, detect breaches, and support investigations. It outlines key events to log, best practices for log protection, and the need for regular monitoring to ensure data integrity and compliance.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.16",
+    "category": "Technological",
+    "title": "Monitoring Activities",
+    "description": "Highlights the need for organizations to proactively and reactively monitor IT and security operations to prevent incidents, detect anomalies, and ensure compliance. It outlines key monitoring areas, recommended tools, and supporting controls for effective cybersecurity risk management.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.17",
+    "category": "Technological",
+    "title": "Clock Synchronization",
+    "description": "Emphasizes the importance of synchronizing system clocks to ensure accurate data logging, effective incident monitoring, and compliance with legal and regulatory requirements. Organizations should use reliable time sources, such as NTP or PTP, and establish redundancy to maintain consistency across systems.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.18",
+    "category": "Technological",
+    "title": "Use of Privileged Utility Programs",
+    "description": "Outlines guidelines for managing privileged utility programs, emphasizing restricted access, authorization controls, logging, and periodic reviews to prevent security risks and maintain system integrity.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.19",
+    "category": "Technological",
+    "title": "Installation of Software on Operational Systems",
+    "description": "Outlines best practices for controlled software installation on operational systems, ensuring security, compliance, and minimizing risks through strict authorization, testing, logging, and rollback procedures.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.20",
+    "category": "Technological",
+    "title": "Networks Security",
+    "description": "focuses on network security by implementing controls to prevent unauthorized access, ensure secure data transmission, segment network traffic, and monitor activities to safeguard ICT infrastructure.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.21",
+    "category": "Technological",
+    "title": "Security of Network Services",
+    "description": "Outlines best practices for securing network services, emphasizing authentication, encryption, access controls, and monitoring to prevent unauthorized access and ensure service reliability.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.22",
+    "category": "Technological",
+    "title": "Segregation of Networks",
+    "description": "Explains the importance of network segregation to enhance security by restricting traffic flow between sub-networks. It provides guidance on network segmentation, access control, and wireless network security to prevent unauthorized access and mitigate security risks.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.23",
+    "category": "Technological",
+    "title": "Web filtering",
+    "description": "Outlines web filtering as a security measure to prevent access to malicious or inappropriate websites, reducing risks like malware infections and data breaches. It recommends blocking high-risk sites, enforcing access rules, and training staff on safe web usage.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.24",
+    "category": "Technological",
+    "title": "Use of Cryptography",
+    "description": "Mandates organizations to establish policies and procedures for cryptographic techniques to ensure data confidentiality, integrity, and security. It covers encryption standards, key management, legal considerations, and roles for implementing cryptographic controls effectively.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.25",
+    "category": "Technological",
+    "title": "Secure Development Life Cycle",
+    "description": "Outlines the requirements for integrating security throughout the software development life cycle (SDLC), ensuring secure coding, vulnerability testing, and compliance with security best practices from design to deployment.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.26",
+    "category": "Technological",
+    "title": "Application Security Requirements",
+    "description": "Outlines application security requirements, emphasizing risk assessments, trust levels, data protection, and compliance to safeguard applications against threats and unauthorized access.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.27",
+    "category": "Technological",
+    "title": "Secure System Architecture and Engineering Principles",
+    "description": "Emphasizes integrating secure system architecture and engineering principles across the system lifecycle, promoting \"security by design,\" zero trust, and defense-in-depth strategies to mitigate emerging threats.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.28",
+    "category": "Technological",
+    "title": "Secure Coding",
+    "description": "Emphasizes secure coding practices to prevent vulnerabilities, ensuring software security through proper development, implementation, and review processes. It highlights compliance responsibilities, real-world risks like the Heartbleed bug, and best practices for organizations to mitigate security threats.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.29",
+    "category": "Technological",
+    "title": "Security Testing in Development and Acceptance",
+    "description": "Mandates security testing throughout development and acceptance phases to identify vulnerabilities before deployment. It ensures compliance with security requirements through structured testing plans, in-house evaluations, and supplier oversight.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.30",
+    "category": "Technological",
+    "title": "Outsourced Development",
+    "description": "Outlines security requirements for outsourced system and software development, ensuring compliance with information security policies to mitigate risks like data breaches. Key measures include secure coding, threat modeling, contract agreements, vulnerability testing, and supplier audits.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.31",
+    "category": "Technological",
+    "title": "Separation of Development, Test and Production Environments",
+    "description": "Emphasizes the importance of separating development, testing, and production environments to prevent unauthorized access, accidental changes, and security breaches. It provides best practices like access control, change management, and data protection to maintain system integrity.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.32",
+    "category": "Technological",
+    "title": "Change Management",
+    "description": "Outlines best practices for change management, ensuring that changes to information systems are planned, assessed, authorized, tested, documented, and communicated to maintain security, integrity, and compliance.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.33",
+    "category": "Technological",
+    "title": "Test Information",
+    "description": "Emphasizes protecting sensitive information in test environments by implementing access controls, data masking, and ensuring secure deletion after use to prevent unauthorized access and data breaches.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  },
+  {
+    "standard": "Annex A 8.34",
+    "category": "Technological",
+    "title": "Protection of Information Systems During Audit Testing",
+    "description": "Ensures the protection of information systems during audit testing by restricting access, enforcing read-only permissions, securing auditor devices, and maintaining audit trails to prevent unauthorized disclosure or system impact.",
+    "reference": [],
+    "evaluatorNotes": " ",
+    "evidence": [],
+    "responsible": [
+      "IT Dir",
+      "Software Dev"
+    ]
+  }
+  
+]

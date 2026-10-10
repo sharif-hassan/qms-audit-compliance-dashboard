@@ -1,0 +1,1882 @@
+[
+    {
+      "clause": "4",
+      "type": "section",
+      "isoClause": "Context of the Organization",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.1",
+      "type": "subsection",
+      "isoClause": "Understanding the organization and its context",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.1 q1",
+      "type": "question",
+      "isoClause": "The organization shall determine external and internal issues that are relevant to its purpose and its strategic direction and that affect its ability to achieve the intended result(s) of its quality management system.",
+      "auditQuestion": "How has the organization determined external and internal issues relevant to its purpose and strategic direction? How do these affect the ability to achieve the intended result of the QMS?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.1 q2",
+      "type": "question",
+      "isoClause": "The organization shall monitor and review the information about these external and internal issues.",
+      "auditQuestion": "How do you monitor and review information about these internal and external issues?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.2",
+      "type": "subsection",
+      "isoClause": "Understanding the needs and expectations of interested parties",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.2 q1",
+      "type": "question",
+      "isoClause": "Due to their impact or potential impact on the organization's ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements, the organization shall determine: a) the interested parties that are relevant to the quality management system. b) the requirements of these interested parties that are relevant to the quality management system.",
+      "auditQuestion": "How have you determined what interested parties are relevant to the QMS? How have you determined what requirements those parties have that are relevant to the QMS? How has impact or potential impact been determined?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.2 q2",
+      "type": "question",
+      "isoClause": "The organization shall monitor and review the information about these interested parties and their relevant requirements.",
+      "auditQuestion": "How do you monitor and review the information about interested parties and their relevant requirements?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.3",
+      "type": "subsection",
+      "isoClause": "Determining the scope of the quality management system",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.3 q1",
+      "type": "question",
+      "isoClause": "The organization shall determine the boundaries and applicability of the quality management system to establish its scope.",
+      "auditQuestion": "How have the boundaries and applicability of the QMS been used to establish the scope of the organization?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.3 q2",
+      "type": "question",
+      "isoClause": "When determining this scope, the organization shall consider: a) the external and internal issues referred to in 4.1. b) the requirements of relevant interested parties referred to in 4.2. c) the products and services of the organization.",
+      "auditQuestion": "How have: a) the external and internal issues, b) the requirements of relevant interested parties, and c) the products and services of the organization been considered when determining the scope of the organization?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.3 q3",
+      "type": "question",
+      "isoClause": "Where a requirement of this International Standard within the determined scope can be applied, then it shall be applied by the organization.",
+      "auditQuestion": "How has the application of the International Standard within the scope been determined, and how has it been applied by the organization?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.3 q4",
+      "type": "question",
+      "isoClause": "If any requirement(s) of this International Standard cannot be applied, this shall not affect the organization's ability or responsibility to ensure conformity of products and services.",
+      "auditQuestion": "How have any requirements of the International Standard been determined as not applicable? Show me how conformity of products and services are not affected by this.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.3 q5",
+      "type": "question",
+      "isoClause": "The scope shall be available and be maintained as documented information stating the: a) products and services covered by the quality management system. b) justification for any instance where a requirement of this International Standard cannot be applied.",
+      "auditQuestion": "Where is the scope available? Where is it maintained as documented information? Does it state what products and services are covered by the QMS? Does it justify how instances of requirements of the QMS cannot be applied?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.4",
+      "type": "subsection",
+      "isoClause": "Quality management system and its processes",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.4 q1",
+      "type": "question",
+      "isoClause": "The organization shall establish, implement, maintain, and continually improve a quality management system, including the processes needed and their interactions, in accordance with the requirements of this International Standard.",
+      "auditQuestion": "How has QMS been established? Show me how this is implemented. How is it maintained and continually improved? How have the processes been determined and how do they interact?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.4 q2",
+      "type": "question",
+      "isoClause": "The organization shall determine the processes needed for the quality management system and their application throughout the organization and shall determine: a) the inputs required and the outputs expected from these processes. b) the sequence and interaction of these processes. c) the criteria, methods, including measurements and related performance indicators needed to ensure the effective operation, and control of these processes. d) the resources needed and ensure their availability. e) the assignment of the responsibilities and authorities for these processes. f) the risks and opportunities in accordance with the requirements of 6.1, and plan and implement the appropriate actions to address them. g) the methods for monitoring, measuring, as appropriate, and evaluation of processes and, if needed, the changes to processes to ensure that they achieve intended results. h) opportunities for improvement of the processes and the quality management system.",
+      "auditQuestion": "How have the processes been determined for the QMS? What are the inputs and outputs for those processes? What is the sequence and interaction of the processes? What are the criteria, methods, measurement, and related performance indicators needed to operate and control those processes? What resources are needed and how are these made available? How are responsibilities and authorities assigned for those processes? How are risks and opportunities considered and what plans are made to implement actions to address them? What methods are used to monitor, measure, and evaluate processes and, if needed, what changes are made to achieve intended results? How are opportunities to improve the processes and the QMS determined?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "4.4 q3",
+      "type": "question",
+      "isoClause": "The organization shall maintain documented information to the extent necessary to support the operation of processes and retain documented information to the extent necessary to have confidence that the processes are being carried out as planned.",
+      "auditQuestion": "What documented information exists to support the operation of processes? How is this documented information retained? How is confidence that the processes are being carried out as planned determined?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    
+    {
+      "clause": "5",
+      "type": "section",
+      "isoClause": "Leadership",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.1",
+      "type": "subsection",
+      "isoClause": "Leadership and commitment",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.1.1",
+      "type": "subsection",
+      "isoClause": "Leadership and commitment for the quality management system",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.1.1 q1",
+      "type": "question",
+      "isoClause": "Top management shall demonstrate leadership and commitment with respect to the quality management system by: \n\n a) taking accountability of the effectiveness of the quality management system.\n b) ensuring that the quality policy and quality objectives are established for the quality management system and are compatible with the strategic direction and the context of the organization.\n c) ensuring that the quality policy is communicated, understood, and applied within the organization.\n d) ensuring the integration of the quality management system requirements into the organization's business processes.\n e) promoting awareness of the process approach.\n f) ensuring that the resources needed for the quality management system are available.\n g) communicating the importance of effective quality management and of conforming to the quality management system requirements.\n h) ensuring that the quality management system achieves its intended results.\n i) engaging, directing, and supporting persons to contribute to the effectiveness of the quality management system.\n j) promoting continual improvement.\n k) supporting other relevant management roles to demonstrate their leadership as it applies to their areas of responsibility.",
+      "auditQuestion": "Show me how top management demonstrates leadership and commitment w.r.t. the QMS by taking accountability of the effectiveness of the QMS.\n\nHow is the quality policy and objectives established for the QMS and how are they compatible with the strategic direction and the organizational context?\n\nHow is the quality policy communicated within the organization? Show me how this is understood and applied.\n\nHow are the requirements of the QMS integrated into the business processes?\n\nHow do you promote awareness of the process approach?\n\nHow do you ensure that resources needed for the QMS are available?\n\nHow do you communicate the importance of effective quality management? How do you communicate the importance of conforming to the QMS requirements?\n\nHow do you ensure that the QMS achieves its intended results?\n\nHow do you engage, direct and support people to contribute to the effectiveness of the QMS?\n\nHow do you promote continual improvement?\n\nHow do you support other relevant management roles to demonstrate leadership in their areas of responsibility?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year \n\nWeekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.1.2",
+      "type": "subsection",
+      "isoClause": "Customer focus",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.1.2 q1",
+      "type": "question",
+     "isoClause": "Top management shall demonstrate leadership and commitment with respect to customer focus by ensuring that:\n\n a) customer requirements and applicable statutory and regulatory requirements are determined and met.\n\n b) the risks and opportunities that can affect conformity of products and services and the ability to enhance customer satisfaction are determined and addressed.\n\n c)the focus on consistently providing products and services that meet customer and applicable statutory and regulatory requirements is maintained.\n\n d) the focus on enhancing customer satisfaction is maintained.",
+     "auditQuestion":"Show me how top management demonstrates leadership and commitment w.r.t. customer focus ensuring requirements and applicable statutory and regulatory requirements are determined and met.\n\nHow are risks and opportunities that can affect conformity of products and services determined?\n\nHow is the ability to enhance customer satisfaction determined and addressed?\n\nHow is the focus on consistently providing products and services that meet customer and applicable statutory and regulatory requirements maintained?\n\nHow is customer satisfaction maintained?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year MRM",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.2",
+      "type": "subsection",
+      "isoClause": "Quality policy",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.2.1",
+      "type": "subsection",
+      "isoClause": "Establishing the quality policy",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.2.1 q1",
+      "type": "question",
+      "isoClause": "Top management shall establish, review, and maintain a quality policy that: a) is appropriate to the purpose and context of the organization.\n\n b) provides a framework for setting and reviewing quality objectives.\n\n c) includes a commitment to satisfy applicable requirements.\n\n d) includes a commitment to continual improvement of the quality management system.",
+      "auditQuestion": "How does top management establish, review, and maintain a quality policy? How is it determined to be appropriate to the purpose and context of the organization?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year MRM",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+  
+    {
+      "clause": "5.2.2",
+      "type": "subsection",
+      "isoClause": "Communicating the quality policy",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.2.2 q1",
+      "type": "question",
+      "isoClause": "The quality policy shall: a) be available as documented information.\n\n b) be communicated, understood, and applied within the organization.\n\n c) be available to relevant interested parties, as appropriate.",
+      "auditQuestion": "Where is the quality policy available as documented information?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+
+  
+    {
+      "clause": "5.3",
+      "type": "subsection",
+      "isoClause": "Organizational roles, responsibilities, and authorities",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.3 q1",
+      "type": "question",
+      "isoClause": "Top management shall ensure that the responsibilities and authorities for relevant roles are assigned, communicated, and understood within the organization.",
+      "auditQuestion": "How does top management ensure that responsibilities and authorities for relevant roles are assigned, communicated, and understood within the organization?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year MRM,\n\n Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "5.3 q2",
+      "type": "question",
+      "isoClause": "Top management shall assign the responsibility and authority for: a) ensuring that the quality management system conforms to the requirements of this International Standard. b) ensuring that the processes are delivering their intended outputs. c) reporting on the performance of the quality management system, on opportunities for improvement and on the need for change or innovation, and especially for reporting to top management. d) ensuring the promotion of customer focus throughout the organization. e) ensuring that the integrity of the quality management system is maintained when changes to the quality management system are planned and implemented.",
+      "auditQuestion": "How does top management assign the responsibility and authority for:\n\nEnsuring that the QMS conforms to the international standard?\n\nEnsuring processes are delivering their intended outputs?\n\nHow is the performance of the QMS, opportunities for improvement and the need for change or innovation reported to top management?\n\nHow is customer focus promoted within the organization?\n\nHow is the integrity of the QMS maintained when changes to the QMS are planned and implemented?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year MRM, Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+
+    {
+      "clause": "6",
+      "type": "section",
+      "isoClause": "Planning for the quality management system",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+  
+    {
+      "clause": "6.1",
+      "type": "subsection",
+      "isoClause": "Actions to address risks and opportunities",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.1.1",
+      "type": "subsection",
+      "isoClause": "",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.1.1 q1",
+      "type": "question",
+      "isoClause": " When planning for the quality management system, the organization shall consider the issues referred to in 4.1 and the requirements referred to in 4.2 and determine the risks and opportunities that need to be addressed to: a) give assurance that the quality management system can achieve its intended result(s). b) prevent, or reduce, undesired effects.  c) achieve continual improvement ",
+      "auditQuestion":" How are the internal and external issues and interested parties considered when planning for the QMS? How are risks and opportunities determined and addressed so that the QMS can: a) Achieve its intended results. b) Prevent or reduce undesired effects. c) Achieve continual improvement? ", 
+      "std": "9001, 14001, 45001, 27001, 20243, 31000,42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.1.2",
+      "type": "subsection",
+      "isoClause": "",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.1.2 q1",
+      "type": "question",
+      "isoClause": "The organization shall plan: a) actions to address these risks and opportunities. b) how to: 1) integrate and implement the actions into its quality management system processes (see 4.4) 2) evaluate the effectiveness of these actions.",
+      "auditQuestion":"How are actions planned to address risks and opportunities? How are actions integrated and implemented into the QMS processes? How do you evaluate the effectiveness of the actions? ", 
+      "std": "9001, 14001, 45001, 27001, 20243, 31000,42001",
+      "cycle": "Annual",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.1.2 q2",
+      "type": "question",
+      "isoClause": "Actions taken to address risks and opportunities shall be proportionate to the potential impact on the conformity of products and services",
+      "auditQuestion": "How are actions taken to address risks and opportunities determined as being appropriate to the potential impact on the conformity of products and services?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000,42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.2.2.1",
+      "type": "subsection",
+      "isoClause": "Product design skills",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.2.2.1 q1",
+      "type": "question",
+      "isoClause": "The organization shall ensure that personnel with product design responsibility are competent to achieve design requirements and are skilled in applicable tools and techniques. Applicable tools and techniques shall be identified by the organization.",
+      "auditQuestion": "How do you determine that personnel with product design responsibility are competent to achieve design requirements? How do you determine skills required in applicable tools and techniques? How do you identify applicable tools and techniques?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.2",
+      "type": "subsection",
+      "isoClause": "Quality objectives and planning to achieve them",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.2.1",
+      "type": "subsection",
+      "isoClause": "",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.2.1 q1",
+      "type": "question",
+      "isoClause": "The organization shall establish quality objectives at relevant functions, levels, and processes. The quality objectives shall: be consistent with the quality policy, be measurable. consider applicable requirements. be relevant to conformity of products and services and the enhancement of customer satisfaction. be monitored. be communicated. be updated as appropriate.",
+      "auditQuestion": "Where are the quality objectives and are these at all relevant functions, levels, and processes? Are they consistent with the quality policy? Are they measurable? Do they consider applicable requirements? Are they relevant to the conformity of products and services and do they enhance customer satisfaction? Are they monitored? How? How often? How are they communicated? How are they updated? Where is the documented information on the quality objectives?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year MRM / Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.2.2",
+      "type": "subsection",
+      "isoClause": "",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.2.2 q1",
+      "type": "question",
+      "isoClause": "When planning how to achieve its quality objectives, the organization shall determine: a) what will be done. what resources will be required. who will be responsible? when it will be completed. how the results will be evaluated.",
+      "auditQuestion": "How does the organization determine what will be done, with what resources, when completed and how will results be evaluated for quality objectives?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "6.3 q1",
+      "type": "question",
+      "isoClause": "Where the organization determines the need for change to the quality management system the change shall be carried out in a planned and systematic manner. The organization shall consider: the purpose of the change and any of its potential consequences. the integrity of the quality management system. the availability of resources. the allocation or reallocation of responsibilities and authorities.",
+      "auditQuestion": "How are changes to the QMS planned systematically? Demonstrate the purpose and potential consequences of changes. Demonstrate the integrity of the QMS; Demonstrate how resources are made available. Demonstrate how responsibility and authority is allocated or reallocated.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year MRM / Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7",
+      "type": "section",
+      "isoClause": "Support",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1",
+      "type": "subsection",
+      "isoClause": "Resources",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.1",
+      "type": "subsection",
+      "isoClause": "General",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.1 q1",
+      "type": "question",
+      "isoClause": "The organization shall determine and provide the resources needed for the establishment, implementation, maintenance, and continual improvement of the quality management system. The organization shall consider: the capabilities of, and constraints on, existing internal resources. what needs to be obtained from external providers.",
+      "auditQuestion": "Demonstrate how resources are determined for the establishment, implementation, maintenance, and continual improvement of the QMS. Show me how the capabilities and constraints on internal resources are considered. Show me how needs from external providers are considered.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.2",
+      "type": "subsection",
+      "isoClause": "People",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    
+    {
+      "clause": "7.1.2 q1",
+      "type": "question",
+      "isoClause": "To ensure that the organization can consistently meet customer and applicable statutory and regulatory requirements, the organization shall provide the persons necessary for the effective operation of the quality management system, including the processes needed.",
+      "auditQuestion": "How do you provide persons necessary to consistently meet customer, applicable statutory and regulatory requirements for the QMS including the necessary processes?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.3",
+      "type": "subsection",
+      "isoClause": "Infrastructure",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.3 q1",
+      "type": "question",
+      "isoClause": "The organization shall determine, provide, and maintain the infrastructure for the operation of its processes to achieve conformity of products and services.",
+      "auditQuestion": "How do you determine, provide, and maintain the infrastructure for the operation of processes to achieve products and service conformity?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.4",
+      "type": "subsection",
+      "isoClause": "Environment for the operation of processes",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.4 q1",
+      "type": "question",
+      "isoClause": "The organization shall determine, provide, and maintain the environment necessary for the operation of its processes and to achieve conformity of products and services.",
+      "auditQuestion": "How do you determine, provide, and maintain the environment for the operation of processes to achieve products and service conformity?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.5",
+      "type": "subsection",
+      "isoClause": "Monitoring and measuring resources",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    
+    {
+      "clause": "7.1.5 q1",
+      "type": "question",
+      "isoClause": "Where monitoring or measuring is used for evidence of conformity of products and services to specified requirements, the organization shall determine the resources needed to ensure valid and reliable monitoring and measuring results.",
+      "auditQuestion": "How are the resources determined for ensuring valid and reliable monitoring and measuring results, where used?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Per Audit Closing, Quarterly",
+      "evidence": [],
+      "responsibleParty": ""
+    },{
+      "clause": "7.1.5 q2",
+      "type": "question",
+      "isoClause": "The organization shall ensure that the resources provided: a) are suitable for the specific type of monitoring and measurement activities being undertaken. b) are maintained to ensure their continued fitness for their purpose.",
+      "auditQuestion": "How do you ensure that resources provided are suitable for the specific monitoring and measurement activities and are maintained to ensure continued fitness for purpose?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Per Audit Closing",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.5 q3",
+      "type": "question",
+      "isoClause": "The organization shall retain appropriate documented information as evidence of fitness for purpose of monitoring and measurement resources.",
+      "auditQuestion": "Show me the documented information which is evidence of fitness for purpose of monitoring and measurement resources.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Per Project",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.5 q4",
+      "type": "question",
+      "isoClause": "Where measurement traceability is a statutory or regulatory requirement; a customer or relevant interested party expectation; or considered by the organization to be an essential part of providing confidence in the validity of measurement results; measuring instruments shall be: -verified or calibrated at specified intervals or prior to use against measurement standards traceable to international or national measurement standards. Where no such standards exist, the basis used for calibration or verification shall be retained as documented information. -identified to determine their calibration status. -safeguarded from adjustments, damage or deterioration that would invalidate the calibration status and subsequent measurement results.",
+      "auditQuestion": "Where applicable, show me how measurement instruments are: Verified or calibrated at specified intervals against national or international measurement standards. If there are no standards, show me the documented information which is used as the basis used for calibration or verification. Show me how measurement instruments are identified to determine their calibration status. Show me how they are safeguarded from adjustments. Show me how they are safeguarded from damage and deterioration.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Per Project, Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.5 q5",
+      "type": "question",
+      "isoClause": "The organization shall determine if the validity of previous measurement results has been adversely affected when an instrument is found to be defective during its planned verification or calibration, or during its use, and take appropriate corrective action, as necessary.",
+      "auditQuestion": "How do you determine the validity of previous measurements if you find an instrument to be defective during verification or calibration? What appropriate actions can you take?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Per CAR, Per Project, Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.6",
+      "type": "subsection",
+      "isoClause": "Organizational knowledge",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    
+    {
+      "clause": "7.1.6 q1",
+      "type": "question",
+      "isoClause": "The organization shall determine the knowledge necessary for the operation of its processes and to achieve conformity of products and services.",
+      "auditQuestion": "How do you determine necessary knowledge for the operation of processes? How do you determine necessary knowledge to achieve conformity of products and services?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.6 q2",
+      "type": "question",
+      "isoClause": "This knowledge shall be maintained and made available to the extent necessary.",
+      "auditQuestion": "How do you maintain this knowledge and how do you make it available to the extent necessary?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.1.6 q3",
+      "type": "question",
+      "isoClause": "When addressing changing needs and trends, the organization shall consider its current knowledge and determine how to acquire or access the necessary additional knowledge.",
+      "auditQuestion": "How do you consider current knowledge and how do you acquire additional knowledge when addressing changing needs and trends?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Per New Requirements",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.2",
+      "type": "subsection",
+      "isoClause": "Competence",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+
+    {
+      "clause": "7.2 q1",
+      "type": "question",
+      "isoClause": "The organization shall: determine the necessary competence of person(s) doing work under its control that affects its quality performance. ensure that these persons are competent based on appropriate education, training, or experience. where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken. retain appropriate documented information as evidence of competence.",
+      "auditQuestion": "Show me how: You determine the necessary competence of people doing work under your control that affects quality performance. How do you determine competence based on appropriate education, training, or experience? How do you take actions to acquire necessary competence where applicable and how do you evaluate the effectiveness of those actions? Show me documented information where appropriate competence.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.3",
+      "type": "subsection",
+      "isoClause": "Awareness",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.3 q1",
+      "type": "question",
+      "isoClause": "Persons doing work under the organization’s control shall be aware of a) the quality policy. b) relevant quality objectives. c) their contribution to the effectiveness of the quality management system, including the benefits of improved quality performance. d) the implications of not conforming with the quality management system requirements.",
+      "auditQuestion": "How are people aware of: The quality policy? Relevant quality objectives? Their contribution to the effectiveness of the QMS? The benefits of improved performance? The implications of not conforming with the QMS requirements?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.4",
+      "type": "subsection",
+      "isoClause": "Communication",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.4 q1",
+      "type": "question",
+      "isoClause": "The organization shall determine the internal and external communications relevant to the quality management system including: a) on what it will communicate. b) when to communicate. c) with whom to communicate. d) how to communicate.",
+      "auditQuestion": "How do you determine internal and external communications relevant to the QMS? How do you determine: What? When? With Whom? How?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "2 times per year, Weekly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5",
+      "type": "subsection",
+      "isoClause": "Documented information",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.1",
+      "type": "subsection",
+      "isoClause": "General",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.1 q1",
+      "type": "question",
+      "isoClause": "The organization's quality management system shall include: a) documented information required by this International Standard. b) documented information determined by the organization as being necessary for the effectiveness of the quality management system.",
+      "auditQuestion": "What documented information do you have as required by this standard? What documented information do you have as being necessary for the effectiveness of your QMS?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.2",
+      "type": "subsection",
+      "isoClause": "Creating and updating",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.2 q1",
+      "type": "question",
+      "isoClause": "When creating and updating documented information the organization shall ensure appropriate: a) identification and description (e.g. a title, date, author, or reference number). b) format (e.g. language, software version, graphics) and media (e.g. paper, electronic); c) review and approval for suitability and adequacy.",
+      "auditQuestion": "Show me that your documented information contains: Identification. Description. In what media format? Show me how the documented information is reviewed and approved for suitability and adequacy.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.3",
+      "type": "subsection",
+      "isoClause": "Control of documented information",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.3.1",
+      "type": "subsection",
+      "isoClause": "7.5.3.1",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.3.1 q1",
+      "type": "question",
+      "isoClause": "Documented information required by the quality management system and by this International Standard shall be controlled to ensure: a) it is available and suitable for use, where and when it is needed. b) it is adequately protected (e.g. from loss of confidentiality, improper use, or loss of integrity).",
+      "auditQuestion": "Show me how you control documented information. Show me how you make it available and suitable for use. How do you protect your documented information?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.3.2",
+      "type": "subsection",
+      "isoClause": "7.5.3.2",
+      "auditQuestion": "",
+      "std": "",
+      "cycle": "",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.3.2 q1",
+      "type": "question",
+      "isoClause": "For the control of documented information, the organization shall address the following activities, as applicable: a) distribution, access, retrieval, and use. b) storage and preservation, including preservation of legibility. c) control of changes (e.g. version control). d) retention and disposition.",
+      "auditQuestion": "When controlling documented information, how do you address: Distribution. Access. Retrieval. Use. Storage and preservation. Legibility. Control of changes. Retention and disposition.",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    {
+      "clause": "7.5.3.2 q2",
+      "type": "question",
+      "isoClause": "Documented information of external origin determined by the organization to be necessary for the planning and operation of the quality management system shall be identified as appropriate and controlled.",
+      "auditQuestion": "How do you identify as appropriate and control documented information of external origin which you have determined as necessary for the QMS?",
+      "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+      "cycle": "Monthly",
+      "evidence": [],
+      "responsibleParty": ""
+    },
+    
+  {
+    "clause": "8",
+    "type": "section",
+    "isoClause": "Operation",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.1",
+    "type": "subsection",
+    "isoClause": "Operational planning and control",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.1 q1",
+    "type": "question",
+    "isoClause": "The organization shall plan, implement, and control the processes, as outlined in 4.4, needed to meet requirements for the provision of products and services and to implement the actions determined in 6.1, by: a) determining requirements for the product and services. b) establishing criteria for the processes and for the acceptance of products and services. c) determining the resources needed to achieve conformity to product and service requirements. d) implementing control of the processes in accordance with the criteria. e) retaining documented information to the extent necessary to have confidence that the processes have been carried out as planned and to demonstrate conformity of products and services to requirements.",
+    "auditQuestion": "How are processes needed to meet requirements for provision of products and services planned, implemented, and controlled? How are requirements for products and services determined? How are criteria for processes and acceptance of products and services determined? How are resources determined? How is process control implemented? Show me the documented information that shows confidence in that the processes have been carried out as planned and can demonstrate conformity of products and services.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Weekly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.1 q2",
+    "type": "question",
+    "isoClause": "The output of this planning shall be suitable for the organization's operations.",
+    "auditQuestion": "How have you determined that the output from the planning process is suitable for your operations?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "2 times per year Weekly Per Project Annual",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.1 q3",
+    "type": "question",
+    "isoClause": "The organization shall control planned changes and review the consequences of unintended changes, taking action to mitigate any adverse effects, as necessary.",
+    "auditQuestion": "How do you control planned changes? How do you review the consequences of unintended changes? What action is taken to mitigate any adverse effects?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per CAR",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.1 q4",
+    "type": "question",
+    "isoClause": "The organization shall ensure that outsourced processes are controlled in accordance with 8.4.",
+    "auditQuestion": "How do you control outsourced processes?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Annual",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2",
+    "type": "subsection",
+    "isoClause": "Determination of requirements for products and services",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.1",
+    "type": "subsection",
+    "isoClause": "Customer communication",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.1 q1",
+    "type": "question",
+    "isoClause": "The organization shall establish the processes for communicating with customers in relation to: a) information relating to products and services. b) enquiries, contracts, or order handling, including changes. c) obtaining customer views and perceptions, including customer complaints. d) the handling or treatment of customer property, if applicable. e) specific requirements for contingency actions, when relevant.",
+    "auditQuestion": "What are your processes for communicating with customers? How do you communicate information relating to: Products. Services. Enquiries. Contracts. Order handling. Customer views, perceptions, and complaints. Handling or treatment of customer property. Specific requirements for contingency actions?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.2",
+    "type": "subsection",
+    "isoClause": "Determination of requirements related to products and services",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.2 q1",
+    "type": "question",
+    "isoClause": "The organization shall establish, implement, and maintain a process to determine the requirements for the products and services to be offered to potential customers.",
+    "auditQuestion": "What is your process to determine the requirements for products and services to be offered to potential customers? How do you establish, implement, and maintain this process?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Annual",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.2 q2",
+    "type": "question",
+    "isoClause": "The organization shall ensure that: a) product and service requirements (including those considered necessary by the organization), and applicable statutory and regulatory requirements, are defined. b) it can meet the defined requirements and substantiate the claims for the products and services it offers.",
+    "auditQuestion": "How do you define product and service requirements including statutory and regulatory requirements? How do you ensure that you can meet the defined requirements and substantiate any claims for your products and services?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Weekly Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.3",
+    "type": "subsection",
+    "isoClause": "Review of requirements related to products and services",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.3 q1",
+    "type": "question",
+    "isoClause": "The organization shall review, as applicable: a) requirements specified by the customer, including the requirements for delivery and post-delivery activities. b) requirements not stated by the customer, but necessary for the customers' specified or intended use, when known. c) additional statutory and regulatory requirements applicable to the products and services. d) contract or order requirements differing from those previously expressed.",
+    "auditQuestion": "How do you review: Customer requirements for delivery and post-delivery? Requirements necessary for customers specified or intended use, where known. Additional statutory and regulatory requirements applicable to products and services. Any other contract or order requirements.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.3 q2",
+    "type": "question",
+    "isoClause": "This review shall be conducted prior to the organization's commitment to supply products and services to the customer and shall ensure contract or order requirements differing from those previously defined are resolved.",
+    "auditQuestion": "Show me that the review is conducted prior to your commitment to supply products and services to your customers. How do you resolve contract or order requirements which differ from those previously defined?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.3 q3",
+    "type": "question",
+    "isoClause": "Where the customer does not provide a documented statement of their requirements, the customer requirements shall be confirmed by the organization before acceptance.",
+    "auditQuestion": "How do you confirm customer requirements where the customer does not provide a documented statement?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.3 q4",
+    "type": "question",
+    "isoClause": "Documented information describing the results of the review, including any new or changed requirements for the products and services, shall be retained.",
+    "auditQuestion": "Show me where you retain documented information which describes results of the review including any new or changed requirements.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.2.3 q5",
+    "type": "question",
+    "isoClause": "Where requirements for products and services are changed, the organization shall ensure that relevant documented information is amended and that relevant personnel are made aware of the changed requirements.",
+    "auditQuestion": "Show me the documented information containing changes to products and services. How do you ensure that relevant personnel are made aware of those changes?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Change",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3",
+    "type": "subsection",
+    "isoClause": "Design and development of products and services",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.1",
+    "type": "subsection",
+    "isoClause": "General",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.1 q1",
+    "type": "question",
+    "isoClause": "Where the detailed requirements of the organization's products and services are not already established or not defined by the customer or by other interested parties, such that they are adequate for subsequent production or service provision, the organization shall establish, implement, and maintain a design and development process.",
+    "auditQuestion": "How do you establish, implement, and maintain a design and development process (where detailed requirements of your products and services are not already established or defined by the customer or other parties)?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Weekly Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.2",
+    "type": "subsection",
+    "isoClause": "Design and development planning",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.2 q1",
+    "type": "question",
+    "isoClause": "In determining the stages and controls for design and development, the organization shall consider a) the nature, duration and complexity of the design and development activities. b) requirements that specify process stages, including applicable design and development reviews. c) the required design and development verification and validation. d) the responsibilities and authorities involved in the design and development process. e) the need to control interfaces between individuals and parties involved in the design and development process. f) the need for involvement of customer and user groups in the design and development process; g) the necessary documented information to confirm that design and development requirements have been met.",
+    "auditQuestion": "When determining the stages and control for design and development, show me how you consider: The nature, duration, and complexity of the activities. Requirements that specify process stages including applicable reviews. Required verification and validation. Responsibilities and authorities; How interfaces are controlled between individuals and parties. The need for involvement of customer and user groups. Show me documented information that confirms design and development requirements have been met.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.3",
+    "type": "subsection",
+    "isoClause": "Design and development inputs",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.3 q1",
+    "type": "question",
+    "isoClause": "The organization shall determine: a) requirements essential for the specific type of products and services being designed and developed, including, as applicable, functional and performance requirements. b) applicable statutory and regulatory requirements. c) standards or codes of practice that the organization has committed to implementing. d) internal and external resource needs for the design and development of products and services; e) the potential consequences of failure due to the nature of the products and services. e) the level of control expected of the design and development process by customers and other relevant interested parties.",
+    "auditQuestion": "Can you show me how you determine: Requirements essential for the type of products and services being designed and developed, including as applicable: Functional & performance requirements? Statutory and regulatory requirements; Standards or codes of practice where there is a commitment to implement. Internal and external resources needed for the design and development of products and services. Potential consequences of failure. Level of control expected of the design and development process by customers and other relevant parties.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.3 q2",
+    "type": "question",
+    "isoClause": "Inputs shall be adequate for design and development purposes, complete, and unambiguous. Conflicts among inputs shall be resolved.",
+    "auditQuestion": "How do you determine that inputs are adequate, complete, and unambiguous for design and development? How do you resolve conflicts among inputs?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.4",
+    "type": "subsection",
+    "isoClause": "Design and development controls",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.4 q1",
+    "type": "question",
+    "isoClause": "The controls applied to the design and development process shall ensure that: a) the results to be achieved by the design and development activities are clearly defined. b) design and development reviews are conducted as planned. c) verification is conducted to ensure that the design and development outputs have met the design and development input requirements; d) validation is conducted to ensure that the resulting products and services can meet the requirements for the specified application or intended use (when known).",
+    "auditQuestion": "How do controls that are applied to the design and development process ensure: Results achieved by design and development activities are clearly defined? Design and development reviews are conducted as planned? Outputs meet the input requirements by verification? Validation is conducted to ensure that the resulting products and services can meet the requirements for the specified application or intended use (when known)?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.5",
+    "type": "subsection",
+    "isoClause": "Design and development outputs",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.5 q1",
+    "type": "question",
+    "isoClause": "The organization shall ensure that design and development outputs: a) meet the input requirements for design and development. b) are adequate for the subsequent processes for the provision of products and services. c) include or reference monitoring and measuring requirements, and acceptance criteria, as applicable. d) ensure products to be produced, or services to be provided, are fit for intended purpose and their safe and proper use.",
+    "auditQuestion": "How do you ensure that design and development outputs? Meet the input requirements for design and development? Are adequate for the subsequent processes for the provision of products and services? Include or reference monitoring and measuring requirements, and acceptance criteria, as applicable? Ensure products to be produced, or services to be provided, are fit for intended purpose and their safe and proper use?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.5 q2",
+    "type": "question",
+    "isoClause": "The organization shall retain the documented information resulting from the design and development process.",
+    "auditQuestion": "Show me the documented information which results from the design and development process.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.6",
+    "type": "subsection",
+    "isoClause": "Design and development changes",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.6 q1",
+    "type": "question",
+    "isoClause": "The organization shall review, control, and identify changes made to design inputs and design outputs during the design and development of products and services or subsequently, to the extent that there is no adverse impact on conformity to requirements.",
+    "auditQuestion": "How do you review, control, and identify changes made to the design inputs and outputs during design and development of products and services ensuring no impact on conformity to requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.3.6 q2",
+    "type": "question",
+    "isoClause": "Documented information on design and development changes shall be retained.",
+    "auditQuestion": "Show me the documented information for design and development changes.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4",
+    "type": "subsection",
+    "isoClause": "Control of externally provided products and services",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.1",
+    "type": "subsection",
+    "isoClause": "General",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.1 q1",
+    "type": "question",
+    "isoClause": "The organization shall ensure that externally provided processes, products, and services conform to specified requirements.",
+    "auditQuestion": "How do you ensure externally provided processes, products and services conform to specified requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.1 q2",
+    "type": "question",
+    "isoClause": "The organization shall apply the specified requirements for the control of externally provided products and services when: a) products and services are provided by external providers for incorporation into the organization's own products and services. b) products and services are provided directly to the customer(s) by external providers on behalf of the organization. c) a process or part of a process is provided by an external provider because of a decision by the organization to outsource a process or function.",
+    "auditQuestion": "Show me how you apply specified requirements for the control of externally provided products and services when: Products and services are provided by external providers for incorporation into your own products and services. You provide products and services directly to customers by external providers on your behalf. A process or part-process is provided by an external provider because of a decision to outsource a process or function.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.1 q3",
+    "type": "question",
+    "isoClause": "The organization shall establish and apply criteria for the evaluation, selection, monitoring of performance and re-evaluation of external providers based on their ability to provide processes or products and services in accordance with specified requirements.",
+    "auditQuestion": "Show me how you establish and apply criteria for evaluation, selection, monitoring of performance and re-evaluation of external providers. How do you assess their ability to provide processes or products and services in accordance with specified requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.1 q4",
+    "type": "question",
+    "isoClause": "The organization shall retain appropriate documented information of the results of the evaluations, monitoring of the performance and reevaluations of the external providers.",
+    "auditQuestion": "What documented information do you have of the results of evaluations, monitoring of performance and reevaluations of external providers?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.2",
+    "type": "subsection",
+    "isoClause": "Type and extent of control of external provision",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.2 q1",
+    "type": "question",
+    "isoClause": "In determining the type and extent of controls to be applied to the external provision of processes, products and services, the organization shall take into consideration: a) the potential impact of the externally provided processes, products, and services on the organization's ability to consistently meet customer and applicable statutory and regulatory requirements. b) the perceived effectiveness of the controls applied by the external provider.",
+    "auditQuestion": "How do you determine the controls applied to the external provision of processes, products and services and take into consideration? a) The potential impact of the externally provided processes, products, and services on the ability to consistently meet customer and applicable statutory and regulatory requirements? b) The perceived effectiveness of the controls applied by the external provider?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.2 q2",
+    "type": "question",
+    "isoClause": "The organization shall establish and implement verification or other activities necessary to ensure the externally provided processes, products and services do not adversely affect the organization's ability to consistently deliver conforming products and services to its customers.",
+    "auditQuestion": "What verification or other activities do you have to ensure externally provided processes, products and services do not adversely affect your ability to consistently deliver conforming products and services to your customers?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.2 q3",
+    "type": "question",
+    "isoClause": "Processes or functions of the organization which have been outsourced to an external provider remain within the scope of the organization's quality management system; accordingly, the organization shall consider a) and b) above and define both the controls it intends to apply to the external provider and those it intends to apply to the resulting process output.",
+    "auditQuestion": "When processes or functions have been outsourced to external providers, how do you consider a) and b) in 8.4.1 and how do you define the controls intended to be applied to the external provider and to the resulting process output?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.3",
+    "type": "subsection",
+    "isoClause": "Information for external providers",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.3 q1",
+    "type": "question",
+    "isoClause": "The organization shall communicate to external providers applicable requirements for the following: a) the products and services to be provided or the processes to be performed on behalf of the organization. b) approval or release of products and services, methods, processes, or equipment. c) competence of personnel, including necessary qualification. d) their interactions with the organization's quality management system. e) the control and monitoring of the external provider's performance to be applied by the organization. f) verification activities that the organization, or its customer, intends to perform at the external provider's premises.",
+    "auditQuestion": "Show me how you communicate to external providers, applicable requirements for: Products and services to be provided or the processes to be performed on behalf of the organization. Approval or release of products and services, methods, processes, or equipment. Competence of personnel, including necessary qualification. Their interactions with the organization's quality management system. The control and monitoring of the external provider's performance to be applied by the organization. Verification activities that the organization, or its customer, intends to perform at the external provider's premises.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.4.3 q2",
+    "type": "question",
+    "isoClause": "The organization shall ensure the adequacy of specified requirements prior to their communication to the external provider.",
+    "auditQuestion": "Before you communicate with external providers, how do you ensure the adequacy of specified requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5",
+    "type": "subsection",
+    "isoClause": "Production and service provision",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.1",
+    "type": "subsection",
+    "isoClause": "Control of production and service provision",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.1 q1",
+    "type": "question",
+    "isoClause": "The organization shall implement controlled conditions for production and service provision, including delivery and post-delivery activities.",
+    "auditQuestion": "What controlled conditions do you have for production and service provision, including delivery and post-delivery activities?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.1 q2",
+    "type": "question",
+    "isoClause": "Controlled conditions shall include, as applicable: a) the availability of documented information that defines the characteristics of the products and services. b) the availability of documented information that defines the activities to be performed and the results to be achieved. c) monitoring and measurement activities at appropriate stages to verify that criteria for control of processes and process outputs, and acceptance criteria for products and services, have been met. d) the use, and control of suitable infrastructure and process environment. e) the availability and use of suitable monitoring and measuring resources. f) the competence and, where applicable, required qualification of persons. g) the validation, and periodic revalidation, of the ability to achieve planned results of any process for production and service provision where the resulting output cannot be verified by subsequent monitoring or measurement. h) the implementation of products and services release, delivery, and post-delivery activities.",
+    "auditQuestion": "Can you show me controlled conditions for: a) the availability of documented information defining the characteristics of the products and services? b) the availability of documented information defining the activities to be performed and the results to be achieved; c) monitoring and measurement activities at appropriate stages to verify that criteria for control of processes and process outputs, and acceptance criteria for products and services, have been met. d) the use, and control of suitable infrastructure and process environment; e) the availability and use of suitable monitoring and measuring resources. f) the competence and, where applicable, required qualification of persons. g) the validation, and periodic revalidation, of the ability to achieve planned results of any process for production and service provision where the resulting output cannot be verified by subsequent monitoring or measurement. h) the implementation of products and services release, delivery, and post-delivery activities.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.2",
+    "type": "subsection",
+    "isoClause": "Identification and traceability",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.2 q1",
+    "type": "question",
+    "isoClause": "Where necessary to ensure conformity of products and services, the organization shall use suitable means to identify process outputs.",
+    "auditQuestion": "What means do you use to identify process outputs to ensure conformity of products and services?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.2 q2",
+    "type": "question",
+    "isoClause": "The organization shall identify the status of process outputs with respect to monitoring and measurement requirements throughout production and service provision.",
+    "auditQuestion": "How do you identify the status of process outputs?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.2 q3",
+    "type": "question",
+    "isoClause": "Where traceability is a requirement, the organization shall control the unique identification of the process outputs and retain any documented information necessary to maintain traceability.",
+    "auditQuestion": "How do you control the unique identification of process outputs, where applicable? What documented information do you retain?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.3",
+    "type": "subsection",
+    "isoClause": "Property belonging to customers or external providers",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.3 q1",
+    "type": "question",
+    "isoClause": "The organization shall exercise care with property belonging to the customer or external providers while it is under the organization's control or being used by the organization. The organization shall identify, verify, protect, and safeguard the customer's or external provider's property provided for use or incorporation into the products and services.",
+    "auditQuestion": "What care do you provide for customer or external provider's property while under your control? How do you identify, verify, protect, and safeguard that property which is provided for use or incorporation into your products or services?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.3 q2",
+    "type": "question",
+    "isoClause": "When property of the customer or external provider is incorrectly used, lost, damaged, or otherwise found to be unsuitable for use, the organization shall report this to the customer or external provider.",
+    "auditQuestion": "What means do you use to report to the customer or external provider if their property is incorrectly used, lost, damaged, or found to be unsuitable for use?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.4",
+    "type": "subsection",
+    "isoClause": "Preservation",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.4 q1",
+    "type": "question",
+    "isoClause": "The organization shall ensure preservation of process outputs during production and service provision, to the extent necessary to maintain conformity to requirements.",
+    "auditQuestion": "How do you ensure preservation of process outputs during production and service provision to maintain conformity to product requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.5",
+    "type": "subsection",
+    "isoClause": "Post-delivery activities",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.5 q1",
+    "type": "question",
+    "isoClause": "As applicable, the organization shall meet requirements for post-delivery activities associated with the products and services.",
+    "auditQuestion": "How do you meet requirements for post-delivery activities associated with products and services?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.5 q2",
+    "type": "question",
+    "isoClause": "In determining the extent of post-delivery activities that are required, the organization shall consider: a) the risks associated with the products and services. b) the nature use and intended lifetime of the products and services; c) customer feedback. d) statutory and regulatory requirements.",
+    "auditQuestion": "How do you determine: Risk. Nature use and intended lifetime. Customer feedback. Statutory and Regulatory requirements, when determining the extent of post-delivery activities required with products and services?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.6",
+    "type": "subsection",
+    "isoClause": "Control of changes",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.6 q1",
+    "type": "question",
+    "isoClause": "The organization shall review and control unplanned changes essential for production or service provision to the extent necessary to ensure continuing conformity with specified requirements.",
+    "auditQuestion": "How do you review and control unplanned changes to ensure continuing conformity with specified requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.5.6 q2",
+    "type": "question",
+    "isoClause": "The organization shall retain documented information describing the results of the review of changes, the personnel authorizing the change, and any necessary actions.",
+    "auditQuestion": "What documented information can you show me which describes the results of reviews of changes, the personnel authorizing change, and any necessary actions?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.6",
+    "type": "subsection",
+    "isoClause": "Release of products and services",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.6 q1",
+    "type": "question",
+    "isoClause": "The organization shall implement the planned arrangements at appropriate stages to verify that product and service requirements have been met. Evidence of conformity with the acceptance criteria shall be retained.",
+    "auditQuestion": "Show me how planned arrangement have been implemented at appropriate stages to verify product and service requirements have been met. Show me what evidence you retain.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.6 q2",
+    "type": "question",
+    "isoClause": "The release of products and services to the customer shall not proceed until the planned arrangements for verification of conformity have been satisfactorily completed, unless otherwise approved by a relevant authority and, as applicable, by the customer. Documented information shall provide traceability to the person(s) authorizing release of products and services for delivery to the customer.",
+    "auditQuestion": "Show me how the release of products and services is held until planned arrangements for verification of conformity have been satisfactorily completed, unless approved by a relevant authority, or the customer if applicable. Show me documented information which shows traceability to the person authorizing release of products and services.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.7",
+    "type": "subsection",
+    "isoClause": "Control of nonconforming process outputs, products, and services",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.7 q1",
+    "type": "question",
+    "isoClause": "The organization shall ensure process outputs, products and services that do not conform to requirements are identified and controlled to prevent their unintended use or delivery.",
+    "auditQuestion": "How do you identify and control process outputs, products and services that do not conform to requirements and prevent their unintended use or delivery?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Monthly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.7 q2",
+    "type": "question",
+    "isoClause": "The organization shall take appropriate corrective action based on the nature of the nonconformity and its impact on the conformity of products and services. This applies also to nonconforming products and services detected after delivery of the products or during the provision of the service.",
+    "auditQuestion": "What appropriate corrective actions are taken based on the nature of the nonconformity and its impact on the conformity of products and services? How do you apply this to nonconformity detected after delivery?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Monthly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.7 q3",
+    "type": "question",
+    "isoClause": "As applicable, the organization shall deal with nonconforming process outputs, products, and services in one or more of the following ways: a) correction. b) segregation, containment, return or suspension of provision of products and services; c) informing the customer. d) obtaining authorization for: use as-is; release, continuation or re-provision of the products and services; acceptance under concession.",
+    "auditQuestion": "How you deal with nonconforming process outputs, products, and services in terms of: Correction. Segregation, containment, return or suspension of provision of products and services? Informing the customer? Obtaining authorization for use as-is? Release, continuation or re-provision of the products and service? Acceptance under concession?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Monthly Annual",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.7 q4",
+    "type": "question",
+    "isoClause": "Where nonconforming process outputs, products and services are corrected, conformity to the requirements shall be verified.",
+    "auditQuestion": "How do you verify conformance where process outputs, products and services are corrected following nonconformance?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "2 times per year",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "8.7 q5",
+    "type": "question",
+    "isoClause": "The organization shall retain documented information of actions taken on nonconforming process outputs, products, and services, including on any concessions obtained and, on the person, or authority that made the decision regarding dealing with the nonconformity.",
+    "auditQuestion": "What documented information do you keep following actions taken to address non conformities, including any concessions obtained and, on the person, or authority that made the decision regarding dealing with the nonconformance.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Monthly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9",
+    "type": "section",
+    "isoClause": "Performance evaluation",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1",
+    "type": "subsection",
+    "isoClause": "Monitoring, measurement, analysis, and evaluation",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.1",
+    "type": "subsection",
+    "isoClause": "General",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.1 q1",
+    "type": "question",
+    "isoClause": "The organization shall determine: a) what needs to be monitored and measured. b) the methods for monitoring, measurement, analysis, and evaluation, as applicable, to ensure valid results. c) when the monitoring and measuring shall be performed. d) when the results from monitoring and measurement shall be analyzed and evaluated.",
+    "auditQuestion": "Show me how you determine: What needs to be monitored and measured? Methods for monitoring, measurement, analysis, and evaluation to ensure valid results? When to perform monitoring and measuring? When results shall be analyzed and evaluated?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Monthly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.1 q2",
+    "type": "question",
+    "isoClause": "The organization shall ensure that monitoring and measurement activities are implemented in accordance with the determined requirements and shall retain appropriate documented information as evidence of the results.",
+    "auditQuestion": "What documented information can you show me that monitoring and measurement activities have been implemented in accordance with determined requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Monthly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.1 q3",
+    "type": "question",
+    "isoClause": "The organization shall evaluate the quality performance and the effectiveness of the quality management system.",
+    "auditQuestion": "Show me how you evaluate the quality performance and the effectiveness of the QMS.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Annual",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.2",
+    "type": "subsection",
+    "isoClause": "Customer satisfaction",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.2 q1",
+    "type": "question",
+    "isoClause": "The organization shall monitor customer perceptions of the degree to which requirements have been met.",
+    "auditQuestion": "How do you monitor customer perception of the degree to which requirements have been met?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.2 q2",
+    "type": "question",
+    "isoClause": "The organization shall obtain information relating to customer views and opinions of the organization and its products and services.",
+    "auditQuestion": "How do you obtain information relating to customer views and opinions of your products and services?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.2 q3",
+    "type": "question",
+    "isoClause": "The methods for obtaining and using this information shall be determined.",
+    "auditQuestion": "What methods for obtaining and using this information do you have?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project Annual",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.3",
+    "type": "subsection",
+    "isoClause": "Analysis and evaluation",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.3 q1",
+    "type": "question",
+    "isoClause": "The organization shall analyze and evaluate appropriate data and information arising from monitoring, measurement, and other sources.",
+    "auditQuestion": "Show me how you analyze and evaluate data and information arising from monitoring, measurement, and other sources.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Weekly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.3 q2",
+    "type": "question",
+    "isoClause": "The output of analysis and evaluation shall be used to: a) demonstrate conformity of products and services to requirements. b) assess and enhance customer satisfaction. c) ensure conformity and effectiveness of the quality management system. d) demonstrate that planning has been successfully implemented. e) assess the performance of processes. f) assess the performance of external provider(s). g) determine the need or opportunities for improvements within the quality management system.",
+    "auditQuestion": "Show me how the output of analysis and evaluation is used to: Demonstrate conformity of products and services to requirements? Assess and enhance customer satisfaction? Ensure conformity and effectiveness of the QMS? Demonstrate that planning has been successfully implemented? Assess process performance? Assess performance of external providers? Determine the need or opportunities for improvements within the QMS?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Per Project Monthly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.1.3 q3",
+    "type": "question",
+    "isoClause": "The results of analysis and evaluation shall also be used to provide inputs to management review.",
+    "auditQuestion": "Show me where the results of analysis and evaluation are used to provide inputs to management review.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Weekly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.2",
+    "type": "subsection",
+    "isoClause": "Internal audit",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.2.1",
+    "type": "subsection",
+    "isoClause": "9.2.1",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.2.1 q1",
+    "type": "question",
+    "isoClause": "The organization shall conduct internal audits at planned intervals to provide information on whether the quality management system. a) conforms to: 1) the organization's own requirements for its quality management system; 2) the requirements of this International Standard. b) is effectively implemented and maintained.",
+    "auditQuestion": "Are internal audits being conducted at planned intervals? Do they determine whether the QMS conforms to the requirements of ISO 9001 and to the other requirements established by Organization? (Review records to demonstrate conformance) Do they determine whether the QMS is effectively implemented and maintained? (Review records)",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Annual",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.2.2",
+    "type": "subsection",
+    "isoClause": "9.2.2",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.2.2 q1",
+    "type": "question",
+    "isoClause": "The organization shall: a) plan, establish, implement, and maintain an audit program(s) including the frequency, methods, responsibilities, planning requirements and reporting, which shall take into consideration the quality objectives, the importance of the processes concerned, customer feedback, changes impacting on the organization, and the results of previous audits. b) define the audit criteria and scope for each audit. c) select auditors and conduct audits to ensure objectivity and the impartiality of the audit process; d) ensure that the results of the audits are reported to relevant management. e) take necessary correction and corrective actions without undue delay. f) retain documented information as evidence of the implementation of the audit program and the audit results.",
+    "auditQuestion": "Can you show me audit program(s) that takes into consideration the quality objectives, importance of the processes, customer feedback, changes impacting the organization and the results of previous audits? Where are the audit criteria and scope for each audit? Can you demonstrate that selection of auditors and the conduct of audits are objective and impartial and that auditors do not audit their own work? How are audit results reported to relevant management? Can you demonstrate that necessary correction and corrective actions are taken without undue delay? Can you show me documented information of the audit program and the audit results?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "Annual Weekly",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.3",
+    "type": "subsection",
+    "isoClause": "Management Review",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.3.1",
+    "type": "subsection",
+    "isoClause": "9.3.1",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.3.1 q1",
+    "type": "question",
+    "isoClause": "Top management shall review the organization's quality management system, at planned intervals, to ensure its continuing suitability, adequacy, and effectiveness.",
+    "auditQuestion": "What is the frequency that top management reviews the organization's QMS? How is the QMS deemed suitable, adequate, and effective?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "2 times per year",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.3.1 q2",
+    "type": "question",
+    "isoClause": "The management review shall be planned and carried out taking into consideration: a) the status of actions from previous management reviews. b) changes in external and internal issues that are relevant to the quality management system including its strategic direction. c) information on the quality performance, including trends and indicators for: 1) nonconformities and corrective actions. 2) monitoring and measurement results. 3) audit results. 4) customer satisfaction. 5) issues concerning external providers and other relevant interested parties. 6) adequacy of resources required for maintaining an effective quality management system; 7) process performance and conformity of products and services. d) the effectiveness of actions taken to address risks and opportunities (see clause 6.1). e) new potential opportunities for continual improvement.",
+    "auditQuestion": "What kinds of information are reviewed in management reviews? These must include actions status of previous reviews; changes to internal/external issues relevant to the QMS. issues that affect strategy. KPI for nonconformities and corrective actions. monitor and measurement of results; audit results; customer satisfaction. issues concerning external providers; issues concerning other relevant parties. adequacy of resources and effectiveness of QMS. process performance. conformity of products and services; actions taken to address risks and opportunities and their effectiveness; new potential opportunities for continual improvement.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "2 times per year",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.3.2",
+    "type": "subsection",
+    "isoClause": "9.3.2",
+    "auditQuestion": "",
+    "std": "",
+    "cycle": "",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.3.2 q1",
+    "type": "question",
+    "isoClause": "The outputs of the management review shall include decisions and actions related to: a) continual improvement opportunities. b) any need for changes to the quality management system, including resource needs.",
+    "auditQuestion": "Show me that management reviews include decisions and actions relating to: Continual improvement opportunities; The need for changes to the QMS including resource needs.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "2 times per year",
+    "evidence": [],
+    "responsibleParty": ""
+  },
+  {
+    "clause": "9.3.2 q2",
+    "type": "question",
+    "isoClause": "The organization shall retain documented information as evidence of the results of management reviews.",
+    "auditQuestion": "Show me what documented information you have as evidence of management reviews.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, 42001",
+    "cycle": "2 times per year",
+    "evidence": [],
+    "responsibleParty": ""
+  }
+
+  ]

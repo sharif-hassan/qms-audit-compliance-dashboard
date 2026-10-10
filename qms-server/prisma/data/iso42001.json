@@ -1,0 +1,1212 @@
+[
+  {
+    "type": "header",
+    "clause": "4",
+    "isoClause": "4 Context of the Organization",
+    "auditQuestion": "4 Context of the Organization",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "4.1",
+    "isoClause": "4.1 Understanding the organization and its context",
+    "auditQuestion": "4.1 Understanding the organization and its context",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "4.1 q1",
+    "isoClause": "The organization shall determine external and internal issues that are relevant to its purpose and that affect its ability to achieve the intended result(s) of its AI Management System.",
+    "auditQuestion": "What external and internal issues have been identified? AI subjects, including data subjects and other subjects; relevant authorities, including policymakers and regulators. external context related considerations such as: applicable legal requirements, including prohibited uses of AI; policies, guidelines and decisions from regulators that have an impact on the interpretation or enforcement of legal requirements in the development and use of AI systems; incentives or consequences associated with the intended purpose and the use of AI systems; culture, traditions, values, norms and ethics with respect to development and use of AI; competitive landscape and trends for new products and services using AI systems; internal context related considerations such as: organizational context, governance, objectives (see 6.2), policies and procedures; contractual obligations; intended purpose of the AI system to be developed or used.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.1 q2",
+    "isoClause": "The organization shall determine whether climate change is a relevant issue.",
+    "auditQuestion": "Is climate change a relevant issue for AI?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.1 q3",
+    "isoClause": "The organization shall consider the intended purpose of the AI systems that are developed, provided or used by the organization. The organization shall determine its roles with respect to these AI systems.",
+    "auditQuestion": "What AI roles are being considered: Role: AI providers, including AI platform providers, AI products or service providers Role as a AI producers, including AI developers, AI designers, AI operators, AI testers and evaluators, AI deployers, AI human factor professionals, domain experts, AI impact assessors, procurers, AI governance and oversight professionals; Role as an \tAI customer, including AI users; Role as an AI partners, including AI system integrators and data providers;",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "4.2",
+    "isoClause": "4.2 Understanding the Needs and Expectations of Interested Parties",
+    "auditQuestion": "4.2 Understanding the Needs and Expectations of Interested Parties",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "4.2 q1",
+    "isoClause": "The organization shall determine: the interested parties that are relevant to the AI management system; the relevant requirements of these interested parties; which of these requirements will be addressed through the AI management system.",
+    "auditQuestion": "How have you determined what interested parties are relevant to the AI management system?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.2 q2",
+    "isoClause": "The organization shall determine: the relevant requirements of these interested parties;",
+    "auditQuestion": "How do you monitor and review the information about interested parties and their relevant requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.2 q3",
+    "isoClause": "The organization shall determine: which of these requirements will be addressed through the AI Management System.",
+    "auditQuestion": "How do you address these requirements with the AI management system?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "4.3",
+    "isoClause": "4.3 Determining the Scope of the AI Management System",
+    "auditQuestion": "4.3 Determining the Scope of the AI Management System",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "4.3 q1",
+    "isoClause": "The organization shall determine the boundaries and applicability of the AI management system to establish its scope.",
+    "auditQuestion": "How have the boundaries and applicability of AI been used to establish the scope of the organization?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.3 q2",
+    "isoClause": "When determining this scope, the organization shall consider:   the external and internal issues referred to in 4.1.  the requirements of relevant interested parties referred to in 4.2.  the products and services of the organization.",
+    "auditQuestion": "How have:  the external and internal issues,  the requirements of relevant interested parties, and  the products and services of the organization  been considered when determining the scope of the organization?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.3 q3",
+    "isoClause": "Where a requirement of this International Standard within the determined scope can be applied, then it shall be applied by the organization.",
+    "auditQuestion": "How has the application of the International Standard within the scope been determined, and how has it been applied by the organization?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.3 q4",
+    "isoClause": "If any requirement(s) of this International Standard cannot be applied, this shall not affect the organization’s ability or responsibility to ensure conformity of products and services.",
+    "auditQuestion": "How have any requirements of the International Standard been determined as not applicable? Show me how conformity of products and services are not affected by this.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.3 q5",
+    "isoClause": "The scope shall be available and be maintained as documented information stating the:  a) products and services covered by the AI management system. b) justification for any instance where a requirement of this International Standard cannot be applied.",
+    "auditQuestion": "Where is the scope available? Where is it maintained as documented information? Does it state what products and services are covered by the AI? Does it justify how instances of requirements of the AI cannot be applied?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "4.4",
+    "isoClause": "4.4 AI Management System",
+    "auditQuestion": "4.4 AI Management System",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "4.4 q1",
+    "isoClause": "The organization shall establish, implement, maintain, and continually improve an AI Management System, including the processes needed and their interactions, in accordance with the requirements of this International Standard.",
+    "auditQuestion": "How has the AI Mgmt System been established?  Show me how this is implemented.  How is it maintained and continually improved?  How have the processes been determined and how do they interact?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.4 q2",
+    "isoClause": "The organization shall determine the processes needed for the AI management system and their application throughout the organization and shall determine:  the inputs required and the outputs expected from these processes.  the sequence and interaction of these processes.  the criteria, methods, including measurements and related performance indicators needed to ensure the effective operation, and control of these processes.   the resources needed and ensure their availability.  the assignment of the responsibilities and authorities for these processes.  the risks and opportunities in accordance with the requirements of 6.1, and plan and implement the appropriate actions to address them.  the methods for monitoring, measuring, as appropriate, and evaluation of processes and, if needed, the changes to processes to ensure that they achieve intended results.   opportunities for improvement of the processes and the AI management system.",
+    "auditQuestion": "How have the processes been determined for the AI Mgmt System?   What are the inputs and outputs for those processes?  What is the sequence and interaction of the processes?  What are the criteria, methods, measurement, and related performance indicators needed to operate and control those processes?  What resources are needed and how are these made available?  How are responsibilities and authorities assigned for those processes?  How are risks and opportunities considered and what plans are made to implement actions to address them?  What methods are used to monitor, measure, and evaluate processes and, if needed, what changes are made to achieve intended results?  How are opportunities to improve the processes and the AI Mgmt System determined?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "4.4 q3",
+    "isoClause": "The organization shall maintain documented information to the extent necessary to support the operation of processes and retain documented information to the extent necessary to have confidence that the processes are being carried out as planned.",
+    "auditQuestion": "What documented information exists to support the operation of processes? How is this documented information retained? How is confidence that the processes are being carried out as planned determined?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "5",
+    "isoClause": "5 Leadership",
+    "auditQuestion": "5 Leadership",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "5.1",
+    "isoClause": "5.1 Leadership and commitment",
+    "auditQuestion": "5.1 Leadership and commitment",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "5.1 q1",
+    "isoClause": "Top management shall demonstrate leadership and commitment with respect to the AI management system by:  ensuring that the AI policy and AI objectives are established and are compatible with the strategic direction of the organization; ensuring the integration of the AI management system requirements into the organization’s business processes; ensuring that the resources needed for the AI management system are available; communicating the importance of effective AI management and of conforming to the AI management system requirements; ensuring that the AI management system achieves its intended result(s); directing and supporting persons to contribute to the effectiveness of the AI management system; promoting continual improvement; supporting other relevant roles to demonstrate their leadership as it applies to their areas of responsibility.",
+    "auditQuestion": "Show me how top management demonstrates leadership and commitment w.r.t. the AI Mgmt System by taking accountability of the effectiveness of the AI Mgmt System.   How is the AI policy and objectives established for the AI Mgmt System and how are they compatible with the strategic direction and the organizational context?   How is the AI policy communicated within the organization? Show me how this is understood and applied.  How are the requirements of the AI Mgmt System integrated into the business processes?   How do you promote awareness of the process approach?  How do you ensure that resources needed for the AI Mgmt System are available?   How do you communicate the importance of effective AI management? How do you communicate the importance of conforming to the AI Mgmt System requirements?  How do you ensure that the AI Mgmt System achieves its intended results?   How do you engage, direct and support people to contribute to the effectiveness of the AI Mgmt System?   How do you promote continual improvement?   How do you support other relevant management roles to demonstrate leadership in their areas of responsibility?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "5.2",
+    "isoClause": "5.2 AI policy",
+    "auditQuestion": "5.2 AI policy",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "5.2 q1",
+    "isoClause": "Top management shall establish, review, and maintain an AI policy that:  is appropriate to the purpose and context of the organization.  provides a framework for setting and reviewing AI objectives.  includes a commitment to satisfying applicable requirements.  includes a commitment to continual improvement of the AI management system.",
+    "auditQuestion": "How does top management establish, review, and maintain a AI policy?  How is it determined to be appropriate to the purpose and context of the organization?   Does it provide a framework for setting and reviewing AI objectives?   Does it contain a commitment to satisfy applicable requirements?   Does it include a commitment to continual improvement of the AI Mgmt System?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "5.2 q2",
+    "isoClause": "The AI policy shall:  be available as documented information.  refer to as relevant to other organizational policies; be communicated, understood, and applied within the organization.  be available to relevant interested parties, as appropriate.",
+    "auditQuestion": "Where is the AI policy available as documented information?  How is it communicated? Show me how it is understood and applied within the organization.   How have you made it available to relevant interested parties?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "5.3",
+    "isoClause": "5.3 Organizational roles, responsibility, and authorities",
+    "auditQuestion": "5.3 Organizational roles, responsibility, and authorities",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "5.3 q1",
+    "isoClause": "Top management shall ensure that the responsibilities and authorities for relevant roles are assigned, communicated, and understood within the organization.",
+    "auditQuestion": "How does top management ensure that responsibilities and authorities for relevant roles are assigned, communicated, and understood within the organization?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM,",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "5.3 q2",
+    "isoClause": "Top management shall assign responsibility and authority for:  ensure that the AI management system conforms to the requirements of this International Standard.  reporting on the performance of the AI management system, on opportunities for improvement and on the need for change or innovation, and especially for reporting to top management.",
+    "auditQuestion": "How does top management assign responsibility and authority for:  Ensuring that the AI Mgmt System conforms to the international standard?   Ensuring processes are delivering their intended outputs?   How is the performance of the AI Mgmt System, opportunities for improvement and the need for change or innovation reported to top management?   How is customer focus promoted within the organization?   How is the integrity of the AI Mgmt System maintained when changes to the AI Mgmt System are planned and implemented?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM,",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "6",
+    "isoClause": "6 Planning",
+    "auditQuestion": "6 Planning",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "6.1",
+    "isoClause": "6.1 Actions to address risks and opportunities",
+    "auditQuestion": "6.1 Actions to address risks and opportunities",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "6.1.1",
+    "isoClause": "6.1.1 General",
+    "auditQuestion": "6.1.1 General",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "6.1.1 q1",
+    "isoClause": "When planning for the AI management system, the organization shall consider the issues referred to in 4.1 and the requirements referred to in 4.2 and determine the risks and opportunities that need to be addressed to:  a) give assurance that the AI management system can achieve its intended result(s). b) prevent, or reduce, undesired effects.   c) achieve continual improvement.",
+    "auditQuestion": "How are the internal and external issues and interested parties considered when planning for the AI Mgmt System?   How are risks and opportunities determined and addressed so that the AI Mgmt System can:  Achieve its intended results.  b) Prevent or reduce undesired effects. c) Achieve continual improvement?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.1 q2",
+    "isoClause": "The organization shall establish and maintain AI risk criteria that support: distinguishing acceptable from non-acceptable risks; performing AI risk assessments; conducting AI risk treatment;  assessing AI risk impacts.",
+    "auditQuestion": "How is acceptable and non acceptable risk determined?  Is AI risk assessment done? Is risk treatment done? Is risk impact completed?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.1 q3",
+    "isoClause": "The organization shall determine the risks and opportunities according to: the domain and application context of an AI system; the intended use; the external and internal context described in 4.1.",
+    "auditQuestion": "How is the risk on the domain and applications?  How is the risk of the intended use? How is the risk with external and internal context?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.1 q4",
+    "isoClause": "The organization shall plan:  a) actions to address these risks and opportunities. b) how to integrate and implement the actions into its AI management system processes (see 4.4) c) how to evaluate the effectiveness of these actions.",
+    "auditQuestion": "How are actions planned to address risks and opportunities?   How are actions integrated and implemented into the AI Mgmt System processes?   How do you evaluate the effectiveness of the actions?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "6.1.2",
+    "isoClause": "6.1.2 AI Risk Assessment",
+    "auditQuestion": "6.1.2 AI Risk Assessment",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "6.1.2 q1",
+    "isoClause": "The organization shall define and establish an AI risk assessment process that: is informed by and aligned with the AI policy (see 5.2) and AI objectives (see 6.2); is designed such that repeated AI risk assessments can produce consistent, valid and comparable results; identifies risks that aid or prevent achieving its AI objectives; analyses the AI risks to: assess the potential consequences to the organization, individuals and societies that would result if the identified risks were to materialize; assess, where applicable, the realistic likelihood of the identified risks; determine the levels of risk; evaluates the AI risks to: compare the results of the risk analysis with the risk criteria (see 6.1.1); prioritize the assessed risks for risk treatment.",
+    "auditQuestion": "What are the new AI cybersecurity threats? Is the AI risk assessment aligned with the AI policy? Is the AI risk management program effective? Does the AI risk program result in better protection? Does the AI risk program show likelihood and impact? Does the AI risk program show risk levels?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.2 q2",
+    "isoClause": "The organization shall retain documented information about the AI risk assessment process.",
+    "auditQuestion": "Does the organization have documented AI Risk Management documents?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "6.1.3",
+    "isoClause": "6.1.3 AI Risk Treatment",
+    "auditQuestion": "6.1.3 AI Risk Treatment",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "6.1.3 q1",
+    "isoClause": "Taking the risk assessment results into account, the organization shall define an AI risk treatment process to: select appropriate AI risk treatment options; determine all controls that are necessary to implement the AI risk treatment options chosen and compare the controls with those in Annex A to verify that no necessary controls have been omitted; consider the controls from Annex A that are relevant for the implementation of the AI risk treatment options; identify if additional controls are necessary beyond those in Annex A in order to implement all risk treatment options; consider the guidance in Annex B for the implementation of controls determined in b) and c); produce a statement of applicability that contains the necessary controls [see b), c) and d)] and provide justification for inclusion and exclusion of controls. Justification for exclusion can include where the controls are not deemed necessary by the risk assessment and where they are not required by (or are subject to exceptions under) applicable external requirements.",
+    "auditQuestion": "Does the organization’s risk treatment process consider all of the required items?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.3 q2",
+    "isoClause": "The organization shall obtain approval from the designated management for the AI risk treatment plan and for acceptance of the residual AI risks. The necessary controls shall be: aligned to the objectives in 6.2; available as documented information; communicated within the organization; available to interested parties, as appropriate.",
+    "auditQuestion": "Has top management approved the organization’s AI risk treatment plan? Does the risk treatment plan adhere to the required controls? Is it communicated to the organization and interested parties?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.3 q3",
+    "isoClause": "The organization shall retain documented information about the AI risk treatment process.",
+    "auditQuestion": "Is the organization’s AI risk treatment process documented and retained as appropriate?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "6.1.4",
+    "isoClause": "6.1.4 AI System Impact Assessment",
+    "auditQuestion": "6.1.4 AI System Impact Assessment",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "6.1.4 q1",
+    "isoClause": "The organization shall define a process for assessing the potential consequences for individuals or groups of individuals, or both, and societies that can result from the development, provision or use of AI systems.",
+    "auditQuestion": "Does the organization’s AI Impact Assessment consider the required items as appropriate?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM,",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.4 q2",
+    "isoClause": "The AI system impact assessment shall determine the potential consequences an AI system’s deployment, intended use and foreseeable misuse has on individuals or groups of individuals, or both, and societies.",
+    "auditQuestion": "Does the organizations AI Impact Assessment consider the potential consequences of each item as appropriate?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM,",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.4 q3",
+    "isoClause": "The AI system impact assessment shall take into account the specific technical and societal context where the AI system is deployed and applicable jurisdictions.",
+    "auditQuestion": "Does the organization’s AI Impact Assessment consider the required items as appropriate?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM,",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.4 q4",
+    "isoClause": "The result of the AI system impact assessment shall be documented. Where appropriate, the result of the system impact assessment can be made available to relevant interested parties as defined by the organization.",
+    "auditQuestion": "Is the organization’s AI Impact Assessment documented and available to relevant interested parties?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM,",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.1.4 q5",
+    "isoClause": "The organization shall consider the results of the AI system impact assessment in the risk assessment (see 6.1.2). A.5 in Table A.1 provides controls for assessing impacts of AI systems.",
+    "auditQuestion": "Does the organization consider the results of its AI Impact Assessment?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM,",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "6.2",
+    "isoClause": "6.2 Quality Objectives and Planning to Achieve Them",
+    "auditQuestion": "6.2 Quality Objectives and Planning to Achieve Them",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "6.2 q1",
+    "isoClause": "The organization shall establish AI objectives at relevant functions and levels.  The AI objectives shall: be consistent with the AI policy (see 5.2); be measurable (if practicable); take into account applicable requirements; be monitored; be communicated; be updated as appropriate; be available as documented information.",
+    "auditQuestion": "Where are the AI objectives and are these at all relevant functions, levels, and processes?  Are they consistent with the AI policy?  Are they measurable?   Do they consider applicable requirements?  Are they relevant to the conformity of products and services and do they enhance customer satisfaction?   Are they monitored? How? How often?  How are they communicated?  How are they updated?  Where is the documented information on the AI objectives?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "6.2 q2",
+    "isoClause": "When planning how to achieve its AI objectives, the organization shall determine:  what will be done.  what resources will be required.  who will be responsible?  when it will be completed.  how the results will be evaluated.",
+    "auditQuestion": "How does the organization determine what will be done, with what resources, when completed and how will results be evaluated for AI objectives?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "6.3",
+    "isoClause": "6.3 Planning of changes",
+    "auditQuestion": "6.3 Planning of changes",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "6.3 q1",
+    "isoClause": "When the organization determines the need for changes to the AI Management System, the changes shall be carried out in a planned manner.",
+    "auditQuestion": "How are changes to the AI Mgmt System planned systematically?  Demonstrate the purpose and potential consequences of changes.  Demonstrate the integrity of the AI Mgmt System; Demonstrate how resources are made available.  Demonstrate how responsibility and authority is allocated or reallocated.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year MRM",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "7",
+    "isoClause": "7 Support",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "7.1",
+    "isoClause": "7.1 Resources",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "7.1.1",
+    "isoClause": "7.1.1 General",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "7.1 q1",
+    "isoClause": "The organization shall determine and provide the resources needed for the establishment, implementation, maintenance, and continual improvement of the AI management system.",
+    "auditQuestion": "Demonstrate how resources are determined for the establishment, implementation, maintenance, and continual improvement of the AI Mgmt System.  Show me how the capabilities and constraints on internal resources are considered.  Show me how needs from external providers are considered.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "7.2",
+    "isoClause": "7.2 Competence",
+    "auditQuestion": "7.2 Competence",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "7.2 q1",
+    "isoClause": "The organization shall:  determine the necessary competence of person(s) doing work under its control that affects its AI performance.  ensure that these persons are competent based on appropriate education, training, or experience.  where applicable, take actions to acquire the necessary competence, and evaluate the effectiveness of the actions taken.",
+    "auditQuestion": "Show me how:  You determine the necessary competence of people doing work under your control that affects AI performance.  How do you determine competence based on appropriate education, training, or experience?  How do you take actions to acquire necessary competence where applicable and how do you evaluate the effectiveness of those actions?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "7.2 q2",
+    "isoClause": "Appropriate documented information as evidence of competence.",
+    "auditQuestion": "Show me documented information where appropriate of competence.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "7.3",
+    "isoClause": "7.3 Awareness",
+    "auditQuestion": "7.3 Awareness",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "7.3 q1",
+    "isoClause": "Persons doing work under the organization’s control shall be aware of  the AI policy.  their contribution to the effectiveness of the AI management system, including the benefits of improved AI performance.  the implications of not conforming with the AI management system requirements.",
+    "auditQuestion": "How are people aware of:  The AI policy?  Their contribution to the effectiveness of the AI Mgmt System?  The benefits of improved performance?  The implications of not conforming with the AI Mgmt System requirements?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "7.4",
+    "isoClause": "7.4 Communication",
+    "auditQuestion": "7.4 Communication",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "7.4 q1",
+    "isoClause": "The organization shall determine the internal and external communications relevant to the AI management system including:  a)   what it will communicate.  when to communicate.  with whom to communicate.  how to communicate.",
+    "auditQuestion": "How do you determine internal and external communications relevant to the AI Mgmt System?  How do you determine:  What?  When?  With Whom?  How?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "7.5",
+    "isoClause": "7.5 Documented information",
+    "auditQuestion": "7.5 Documented information",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "7.5.1",
+    "isoClause": "7.5.1 General",
+    "auditQuestion": "7.5.1 General",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "7.5.1 q1",
+    "isoClause": "The organization’s AI management system shall include:  documented information required by this International Standard.  documented information determined by the organization as being necessary for the effectiveness of the AI management system. the size of organization and its type of activities, processes, products and services; the complexity of processes and their interactions the competence of process",
+    "auditQuestion": "What documented information do you have as required by this standard?  What documented information do you have as being necessary for the effectiveness of your AI Mgmt System?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "7.5.2",
+    "isoClause": "7.5.2 Creating and updating documented information",
+    "auditQuestion": "7.5.2 Creating and updating documented information",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "7.5.2 q1",
+    "isoClause": "When creating and updating documented information the organization shall ensure appropriate:  identification and description (e.g. a title, date, author, or reference number).   format (e.g. language, software version, graphics) and media (e.g. paper, electronic); review and approval for suitability and adequacy.",
+    "auditQuestion": "Show me that your documented information contains:  Identification.  Description.  In what media format?  Show me how the documented information is reviewed and approved for suitability and adequacy.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "7.5.3",
+    "isoClause": "7.5.3 Control of documented information",
+    "auditQuestion": "7.5.3 Control of documented information",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "7.5.3 q1",
+    "isoClause": "Documented information required by the AI management system and by this International Standard shall be controlled to ensure:  it is available and suitable for use, where and when it is needed.  it is adequately protected (e.g. from loss of confidentiality, improper use, or loss of integrity).",
+    "auditQuestion": "Show me how you control documented information.  Show me how you make it available and suitable for use.  How do you protect your documented information?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "7.5.3 q2",
+    "isoClause": "For the control of documented information, the organization shall address the following activities, as applicable: distribution, access, retrieval and use; storage and preservation, including preservation of legibility; control of changes (e.g. version control); — retention and disposition",
+    "auditQuestion": "When controlling documented information, how do you address:  Distribution.  Access.  Retrieval.  Use.  Storage and preservation.  Legibility.  Control of changes.  Retention and disposition.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "7.5.3 q3",
+    "isoClause": "Documented information of external origin determined by the organization to be necessary for the planning and operation of the AI management system shall be identified as appropriate and controlled.",
+    "auditQuestion": "How do you identify as appropriate and control documented information of external origin which you have determined as necessary for the AI Mgmt System",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "8",
+    "isoClause": "8 Operation",
+    "auditQuestion": "8 Operation",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "8.1",
+    "isoClause": "8.1 Operational planning and control",
+    "auditQuestion": "8.1 Operational planning and control",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "8.1 q1",
+    "isoClause": "The organization shall plan, implement and control the processes needed to meet requirements, and to implement the actions determined in Clause 6, by: establishing criteria for the processes; implementing control of the processes in accordance with the criteria.",
+    "auditQuestion": "How are processes needed to meet requirements for provision of products and services planned, implemented, and controlled?  How are criteria for processes and acceptance for products and services determined?  How are resources determined?  How is process control implemented? Show me the documented information that shows confidence in that the processes have been carried out as planned and can demonstrate conformity of products and services.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Yearly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "8.1 q2",
+    "isoClause": "The organization shall implement the controls determined according to 6.1.3 that are related to the operation of the AI management system (e.g. AI system development and usage life cycle related controls).",
+    "auditQuestion": "What is the company’s AI risk treatment plan? How is the risk treatment plan implemented? Is the risk treatment plan documented?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Yearly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "8.1 q3",
+    "isoClause": "The effectiveness of these controls shall be monitored and corrective actions shall be considered if the intended results are not achieved. Annex A lists reference controls and Annex B provides implementation guidance for them.",
+    "auditQuestion": "How are the controls monitored? What is the process for corrective actions?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Yearly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "8.1 q4",
+    "isoClause": "Documented information shall be available to the extent necessary to have confidence that the processes have been carried out as planned.",
+    "auditQuestion": "How is the information documented? How to confirm the processes are followed properly?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Yearly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "8.1 q5",
+    "isoClause": "The organization shall control planned changes and review the consequences of unintended changes, taking action to mitigate any adverse effects, as necessary.",
+    "auditQuestion": "How do you control planned changes? How do you review the consequences of unintended changes? What action is taken to mitigate any adverse effects?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "8.1 q6",
+    "isoClause": "The organization shall ensure that externally provided processes, products or services that are relevant to the AI management system are controlled.",
+    "auditQuestion": "How do you control outsourced processes relevant to AIMS?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA,  42001",
+    "cycle": "Monthly",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "8.2",
+    "isoClause": "8.2 AI Risk Assessment",
+    "auditQuestion": "8.2 AI Risk Assessment",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "8.2 q1",
+    "isoClause": "The organization shall perform AI risk assessments in accordance with 6.1.2 at planned intervals or when significant changes are proposed or occur.",
+    "auditQuestion": "Does the organization perform AI risk assessments at planned intervals?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "8.2 q2",
+    "isoClause": "The organization shall retain documented information of the results of all AI risk assessments.",
+    "auditQuestion": "Does the organization retain its AI risk assessments?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "8.3",
+    "isoClause": "8.3 AI Risk Treatment",
+    "auditQuestion": "8.3 AI Risk Treatment",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "8.3 q1",
+    "isoClause": "The organization shall implement the AI risk treatment plan according to 6.1.3 and verify its effectiveness.",
+    "auditQuestion": "Does the organization implement its AI risk treatment plan?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "8.3 q2",
+    "isoClause": "When risk assessments identify new risks that require treatment, a risk treatment process in accordance with 6.1.3 shall be performed for these risks.",
+    "auditQuestion": "Does the organization have a plan to identify new risks, determine treatment, and implement?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "8.3 q3",
+    "isoClause": "When risk treatment options as defined by the risk treatment plan are not effective, these treatment options shall be reviewed and revalidated following the risk treatment process according to 6.1.3 and the risk treatment plan shall be updated.",
+    "auditQuestion": "Does the organization review its risk treatment plans should they be ineffective?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "8.3 q4",
+    "isoClause": "The organization shall retain documented information of the results of all AI risk treatments.",
+    "auditQuestion": "Does the organization retain results of its AI risk treatments?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "8.4",
+    "isoClause": "8.4 AI System Impact Assessment",
+    "auditQuestion": "8.4 AI System Impact Assessment",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "8.4 q1",
+    "isoClause": "The organization shall perform AI system impact assessments according to 6.1.4 at planned intervals or when significant changes are proposed to occur.",
+    "auditQuestion": "Does the organization perform impact assessments?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "8.4 q2",
+    "isoClause": "The organization shall retain documented information of the results of all AI system impact assessments",
+    "auditQuestion": "Does the organization retain documents for its AI impact assessments?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "9",
+    "isoClause": "9 Performance evaluation",
+    "auditQuestion": "9 Performance evaluation",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "9.1",
+    "isoClause": "9.1 Monitoring, measurement, analysis, and evaluation",
+    "auditQuestion": "9.1 Monitoring, measurement, analysis, and evaluation",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "9.1.1 q1",
+    "isoClause": "The organization shall determine:  what needs to be monitored and measured.  the methods for monitoring, measurement, analysis, and evaluation, as applicable, to ensure valid results.  when the monitoring and measuring shall be performed.   when the results from monitoring and measurement shall be analyzed and evaluated.",
+    "auditQuestion": "Show me how you determine: What needs to be monitored and measured?  Methods for monitoring, measurement, analysis, and evaluation to ensure valid results?  When to perform monitoring and measuring?  When results shall be analyzed and evaluated?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "9.1.1 q2",
+    "isoClause": "Documented information shall be available as evidence of the results.",
+    "auditQuestion": "Is documentation available as evidence to determine what needs to be monitored, methods for monitoring, when monitoring occurs, and when monitoring results are analyzed?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "question",
+    "clause": "9.1.1 q3",
+    "isoClause": "The organization shall evaluate the performance and the effectiveness of the AI management system.",
+    "auditQuestion": "Does the organization evaluate the performance and effectiveness of its AIMS?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Vice President of Technology"
+  },
+  {
+    "type": "header",
+    "clause": "9.2",
+    "isoClause": "9.2 Internal audit",
+    "auditQuestion": "9.2 Internal audit",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "9.2.1",
+    "isoClause": "9.2.1 General",
+    "auditQuestion": "9.2.1 General",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "9.2.1 q1",
+    "isoClause": "The organization shall conduct internal audits at planned intervals to provide information on whether the AI management system.  a) conforms to:   1) the organization’s own requirements for its AI management system;  2) the requirements of this International  Standard.  b) is effectively implemented and maintained.",
+    "auditQuestion": "Are internal audits being conducted at planned intervals?  Do they determine whether the AI Mgmt System conforms to the requirements of ISO 42001 and to the other requirements established by Organization?  (Review records to demonstrate conformance)  Do they determine whether the AI Mgmt System is effectively implemented and maintained?  (Review records)",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "9.2.2",
+    "isoClause": "9.2.2 Internal Audit Program",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "9.2.2 q1",
+    "isoClause": "The organization shall plan, establish, implement and maintain (an) audit program(s), including the frequency, methods, responsibilities, planning requirements and reporting.",
+    "auditQuestion": "Can you show me audit program(s) that takes into consideration the AI objectives, importance of the processes, customer feedback, changes impacting the organization and the results of previous audits?  Where are the audit criteria and scope for each audit?  Can you demonstrate that selection of auditors and the conduct of audits are objective and impartial and that auditors do not audit their own work?  How are audit results reported to relevant management?  Can you demonstrate that necessary correction and corrective actions are taken without undue delay?  Can you show me documented information of the audit program and the audit results?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "9.2.2 q2",
+    "isoClause": "When establishing the internal audit program(s), the organization shall consider the importance of the processes concerned and the results of previous audits.",
+    "auditQuestion": "Does the organization consider the results of previous audits in its Internal Audit Programme?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "9.2.2 q3",
+    "isoClause": "The organization shall: define the audit objectives, criteria and scope for each audit; select auditors and conduct audits to ensure objectivity and the impartiality of the audit process; ensure that the results of audits are reported to relevant managers.",
+    "auditQuestion": "Does the organization define audit objectives? Does the organization select auditors for each audit? Do auditors share the results of each audit?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "9.2.2 q4",
+    "isoClause": "Documented information shall be available as evidence of the implementation of the audit program(s) and the audit results.",
+    "auditQuestion": "Does the organization document its audit program and results?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "9.3",
+    "isoClause": "9.3 Management Review",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "9.3.1",
+    "isoClause": "9.3.1 General",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "9.3.1 q1",
+    "isoClause": "Top management shall review the organization's AI management system, at planned intervals, to ensure its continuing suitability, adequacy, and effectiveness.",
+    "auditQuestion": "What is the frequency that top management reviews the organization's AI Mgmt System?  How is the AI Mgmt System deemed suitable, adequate, and effective?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year",
+    "evidence": "",
+    "responsibleParty": "Most Senior VP – Senior Management"
+  },
+  {
+    "type": "header",
+    "clause": "9.3.2",
+    "isoClause": "9.3.2 \tManagement Review Inputs",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "9.3.2 q1",
+    "isoClause": "The management review shall include: the status of actions from previous management reviews; changes in external and internal issues that are relevant to the AI management system; changes in needs and expectations of interested parties that are relevant to the AI management system; information on the AI management system performance, including trends in: nonconformities and corrective actions; monitoring and measurement results; audit results; opportunities for continual improvement.",
+    "auditQuestion": "Does the management review meeting include all required items?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year",
+    "evidence": "",
+    "responsibleParty": "Most Senior VP – Senior Management"
+  },
+  {
+    "type": "header",
+    "clause": "9.3.3",
+    "isoClause": "9.3.3 \tManagement Review Results",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "9.3.3 q1",
+    "isoClause": "The results of the management review shall include decisions related to continual improvement opportunities and any need for changes to the AI management system.",
+    "auditQuestion": "Does the organization document decisions made during its MRMs?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year",
+    "evidence": "",
+    "responsibleParty": "Most Senior VP – Senior Management"
+  },
+  {
+    "type": "question",
+    "clause": "9.3.3 q2",
+    "isoClause": "Documented information shall be available as evidence of the results of management reviews.",
+    "auditQuestion": "Does the organization document its MRMs?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "2 times per year",
+    "evidence": "",
+    "responsibleParty": "Most Senior VP – Senior Management"
+  },
+  {
+    "type": "header",
+    "clause": "10",
+    "isoClause": "10 Improvement",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "header",
+    "clause": "10.1",
+    "isoClause": "10.1 Continual Improvement",
+    "auditQuestion": "",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "10.1 q1",
+    "isoClause": "The organization shall continually improve the suitability, adequacy and effectiveness of the AI management system.",
+    "auditQuestion": "Does the organization have a system for continual improvement?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Per Event",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "header",
+    "clause": "10.2",
+    "isoClause": "10.2 Nonconformity and corrective action",
+    "auditQuestion": "10.2 Nonconformity and corrective action",
+    "std": "42001",
+    "cycle": "",
+    "evidence": "",
+    "responsibleParty": ""
+  },
+  {
+    "type": "question",
+    "clause": "10.2 q1",
+    "isoClause": "When a nonconformity occurs, including those arising from complaints, the organization shall:  react to the nonconformity, and as applicable:  take action to control and correct it.   deal with the consequences.   evaluate the need for action to eliminate the cause(s) of the nonconformity, in order that it does not recur or occur elsewhere, by:   reviewing the nonconformity.   determining the causes of the nonconformity;  determining if similar nonconformities exist or could potentially occur.   implement any action needed.   review the effectiveness of any corrective action taken.   make changes to the AI management system, if necessary.",
+    "auditQuestion": "When nonconformities occur, show me how; You react.  Take action to control and correct it.  Deal with the consequences.  Evaluate the need for action to eliminate the cause so that it does not recur or occur elsewhere by:  Reviewing the nonconformity; Determining the cause of the nonconformity.  Determining if similar nonconformities exist or could potentially occur.  Actions needed are implemented; Review the effectiveness of corrective actions taken, if any.  Make necessary changes to the AI Mgmt System.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Per Event",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "10.2 q2",
+    "isoClause": "Corrective actions shall be appropriate to the effects of the nonconformities encountered.",
+    "auditQuestion": "Show me how correction actions were appropriate to the effects of the nonconformities encountered.",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Per Event",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "10.2 q3",
+    "isoClause": "Documented information shall be available as evidence of: the nature of the nonconformities and any subsequent actions taken; the results of any corrective action.",
+    "auditQuestion": "Does the organization document actions taken to address nonconformities and the results?",
+    "std": "9001, 14001, 45001, 27001, 20243, 31000, NAID, NIST, OSHA, GDPR, PCI, SOC-2, HIPAA, 42001",
+    "cycle": "Per Event",
+    "evidence": "",
+    "responsibleParty": "Chief Compliance Officer"
+  },
+  {
+    "type": "question",
+    "clause": "SoA",
+    "isoClause": "Reference Control Objectives and Controls",
+    "auditQuestion": "How have the controls from the SoA been implemented or excluded from the organization’s documentation and processes?",
+    "std": "",
+    "cycle": "Annual",
+    "evidence": "",
+    "responsibleParty": ""
+  }
+]
