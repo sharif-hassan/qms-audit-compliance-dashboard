@@ -26,8 +26,8 @@ if [ ! -f qms-server/.env ]; then
   echo "📝 Created qms-server/.env from .env-example"
 fi
 
-[ -d node_modules ] || { echo "📦 Installing frontend dependencies..."; npm install || fail "npm install failed"; }
-[ -d qms-server/node_modules ] || { echo "📦 Installing backend dependencies..."; (cd qms-server && npm install) || fail "npm install failed in qms-server"; }
+[ -d node_modules ] || { echo "📦 Installing frontend dependencies..."; npm install --no-audit --no-fund || fail "npm install failed"; }
+[ -d qms-server/node_modules ] || { echo "📦 Installing backend dependencies..."; (cd qms-server && npm install --no-audit --no-fund) || fail "npm install failed in qms-server"; }
 
 # ── Database ────────────────────────────────────────────────────────────
 echo "🗄️  Starting PostgreSQL..."

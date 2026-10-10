@@ -35,13 +35,13 @@ if (-not (Test-Path "qms-server\.env")) {
 
 if (-not (Test-Path "node_modules")) {
     Write-Host "Installing frontend dependencies..." -ForegroundColor Cyan
-    npm install
+    npm install --no-audit --no-fund
     if ($LASTEXITCODE -ne 0) { Fail "npm install failed." }
 }
 if (-not (Test-Path "qms-server\node_modules")) {
     Write-Host "Installing backend dependencies..." -ForegroundColor Cyan
     Push-Location "qms-server"
-    npm install
+    npm install --no-audit --no-fund
     $installExit = $LASTEXITCODE
     Pop-Location
     if ($installExit -ne 0) { Fail "npm install failed in qms-server." }
