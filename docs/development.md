@@ -6,7 +6,7 @@ How to run the project locally, run tests, and debug common problems.
 
 | Tool | Version | Why |
 |---|---|---|
-| Node.js | 20+ | Vite + Express + Prisma CLI |
+| Node.js | 20.19+ or 22.12+ | Vite 7 requires one of these |
 | npm | 10+ | Dependency install |
 | Docker Desktop | latest | Hosts Postgres |
 | Git | — | Source control, and Git Bash on Windows if you want to run `start.sh` |

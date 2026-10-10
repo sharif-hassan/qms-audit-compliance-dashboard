@@ -61,54 +61,59 @@ See [docs/](docs/README.md) for architecture diagrams, the full API reference an
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) v20+
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- [Node.js](https://nodejs.org/) **20.19+ or 22.12+** (the current LTS works)
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/), installed and running
 - [Git](https://git-scm.com/)
 
-### Setup
+### Run it
 
-**1. Clone the repo**
 ```bash
 git clone https://github.com/sharif-hassan/qms-audit-compliance-dashboard.git
 cd qms-audit-compliance-dashboard
-```
 
-**2. Create the backend config file**
-```bash
-cp qms-server/.env-example qms-server/.env
-```
-
-The defaults match the Docker database. Change `JWT_SECRET` to a long random string for anything other than local development.
-
-**3. Install dependencies**
-```bash
-npm install
-cd qms-server && npm install && cd ..
-```
-
-**4. Start everything**
-
-Make sure Docker Desktop is running, then:
-```bash
-# Mac/Linux
+# Mac / Linux
 ./start.sh
 
 # Windows (PowerShell)
 powershell -ExecutionPolicy Bypass -File .\start.ps1
 ```
 
-This starts the database, runs migrations, seeds the built-in standards and launches both servers. Re-running it is safe: the seed never overwrites your edits.
+The start script checks your Node and Docker setup, creates `qms-server/.env` from [`.env-example`](qms-server/.env-example), installs dependencies on the first run, starts PostgreSQL in Docker, applies migrations, seeds the built-in standards and launches both servers. The first run takes a minute or two while it downloads packages and the database image. Re-running it is safe: the seed never overwrites your edits.
 
-**5. Open the app**
-
-Go to [http://localhost:5173](http://localhost:5173) and log in with:
+Then open **[http://localhost:5173](http://localhost:5173)** and sign in:
 
 ```
 Email:    admin@example.com
 Password: admin123
 ```
 
-Change this password from the **Users** page after your first login.
+Press `Ctrl+C` to stop everything (on Windows, close the two server windows).
+
+<details>
+<summary>Manual setup (without the start script)</summary>
+
+```bash
+cp qms-server/.env-example qms-server/.env
+npm install
+(cd qms-server && npm install)
+
+docker compose up -d db          # give it a few seconds to start
+(cd qms-server && npx prisma migrate deploy && npx prisma db seed)
+
+(cd qms-server && npm run dev)   # API on :3001 — in one terminal
+npm run dev                      # app on :5173 — in another
+```
+
+</details>
+
+### Troubleshooting
+
+| Problem | Fix |
+|---|---|
+| `Docker is installed but not running` | Start Docker Desktop and wait until it says it's running, then re-run the script |
+| `Node … is too old` | Install the current LTS from [nodejs.org](https://nodejs.org/) |
+| `port is already allocated` / `EADDRINUSE` | Something else is using port 5435, 3001 or 5173 — stop it, or change the port in `docker-compose.yml` / `qms-server/.env` |
+| `permission denied: ./start.sh` | Run `bash start.sh` instead |
 
 ---
 
